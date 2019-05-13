@@ -21,9 +21,8 @@ jobs:
             # translations upload/download
             crowdin --config crowdin.yaml upload sources --auto-update -b master
             crowdin --config crowdin.yaml download -b master
-            cd website && yarn build && cd ..
-            # deploy ./build
-            # somothing to do
+            # build and publish website
+            cd website && GIT_USER=ci yarn run publish-gh-pages
 
 workflows:
   version: 2
