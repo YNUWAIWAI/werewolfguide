@@ -1,0 +1,1 @@
+# werewolfguide [![CircleCI](https://circleci.com/gh/YNUWAIWAI/werewolfguide.svg?style=svg)](https://circleci.com/gh/YNUWAIWAI/werewolfguide)
