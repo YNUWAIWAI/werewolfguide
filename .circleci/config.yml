@@ -2,13 +2,13 @@ version: 2
 jobs:
   deploy-website:
     docker:
-      - image: circleci/node:10
+      - image: circleci/node:12
 
     steps:
       - checkout
       - run:
           name: Deploying to GitHub Pages
-          command: |
+          command:
             # install Docusaurus and generate file of English strings
             - cd website && yarn install && yarn run write-translations && cd ..
             # crowdin install
