@@ -250,3 +250,120 @@ The message is shown to all the audiences except the players. The color of the a
 </figure>
 
 ## Vote input form
+
+When noon or night comes, the vote input form as shown in [Figure 21](#figure21) appears in the lower part of the screen. If the phase is noon, the vote input form shows an agent list who to put to death. If the phase is night, if the role is the werewolf, it shows an agent list who to attack. If the role is the seer, it shows an agent list who to learn the truth of. If the role is the hunter, it shows an agent list who to guard.
+
+<figure id="figure21">
+  <img
+    alt="Vote input form"
+    src="/img/voteForm1.png"
+  >
+  <figcaption>Figure 21 “Vote input form”</figcaption>
+</figure>
+
+Otherwise, it shows no agent list as shown in [Figure 22](#figure22). 
+
+<figure id="figure22">
+  <img
+    alt="No agent list"
+    src="/img/voteForm2.png"
+  >
+  <figcaption>Figure 22 “No agent list”</figcaption>
+</figure>
+
+Once the player push an agent icon in the list, the confirmation dialog appears as shown in [Figure 23](#figure23). The player can choose the “Yes” or the “No”. After the player chooses the “Yes”, no agent list appears and they cannot reselect another agent as shown in [Figure 24](#figure24). However if the player chooses the “No”, the agent list appears again and they can reselect an agent.
+
+<figure id="figure23">
+  <img
+    alt="Confirmation dialog"
+    src="/img/confirmationDialog.png"
+  >
+  <figcaption>Figure 23 “Confirmation dialog”</figcaption>
+</figure>
+
+<figure id="figure24">
+  <img
+    alt="Cannot reselect another agent after the yes button was clicked"
+    src="/img/voteForm3.png"
+  >
+  <figcaption>Figure 24 “Cannot reselect another agent after the yes button was clicked”</figcaption>
+</figure>
+
+### Conjecture table
+
+[Figure 25](#figure25) shows an example of the conjecture table.
+
+The first row shows the role icons. When the player clicks a role icon, the role description appears.
+
+The first column shows the agent icons. If an agent is dead, the cell is colored in red. In the beginning of a new phase, the newly dead agents’ icons flashes red for a few seconds before turning red.
+
+The other cells show the player’s conjectures. The default value is a question mark. The player can change the question mark to a triangle, a circle or a cross by clicking the cell.
+
+When a player’s role is no longer undefined, the system automatically inserts a red circle and the cell border becomes red to indicate it can no longer be modified. At the same time, the other unmodifiable cells become black with a white number indicating the day in which the cells changed. For example, in [Figure 25](#figure25), the player Walter is the seer, therefore there is a circle on the column of the seer. Also, there is only one seer in the game, therefore the other players cannot be the seer. This is why the seer column is turned black. Moreover, since Walter’s role is the seer, all the other roles are backed out.
+
+Roles like the mason and the werewolf know from the beginning the identities of the players with the same role, so their cells become unmodifiable too.
+
+Roles like the seer and the medium have the ability to know if certain players are werewolves or not, so that information is reflected on the conjecture table.
+
+<figure id="figure25">
+  <img
+    alt="An example of the conjecture table"
+    src="/img/conjectureTable.png"
+  >
+  <figcaption>Figure 25 “An example of the conjecture table”</figcaption>
+</figure>
+
+### Results
+
+[Figure 26-28](#figure26) show an example of the results.
+The result screen is composed of three tables. The first one shows if one’s team has won or lost and one’s own status: agent icon, agent name, status at the end of the game, role icon, user icon and username.
+
+The second table shows the winners’ team details and the third table shows the losers’ team details. The dead players are shown in red.
+
+<figure id="figure26">
+  <img
+    alt="An example of the results (1/3)"
+    src="/img/results1.png"
+  >
+  <figcaption>Figure 26 “An example of the results (1/3)”</figcaption>
+</figure>
+
+<figure id="figure27">
+  <img
+    alt="An example of the results (2/3)"
+    src="/img/results2.png"
+  >
+  <figcaption>Figure 27 “An example of the results (2/3)”</figcaption>
+</figure>
+
+<figure id="figure28">
+  <img
+    alt="An example of the results (3/3)"
+    src="/img/results3.png"
+  >
+  <figcaption>Figure 28 “An example of the results (3/3)”</figcaption>
+</figure>
+
+### Post-mortem discussion
+
+After the end of the game, the post-mortem discussion form appears in the lower left and the three buttons appear in the lower right as shown in [Figure 29](#figure29).
+
+<figure id="figure29">
+  <img
+    alt="Post-mortem discussion"
+    src="/img/postMortem.png"
+  >
+  <figcaption>Figure 29 “Post-mortem discussion”</figcaption>
+</figure>
+
+#### Post-mortem discussion form
+
+The players can participate in the post-mortem discussion up to twenty-four hours after the end of the game.
+
+#### The three buttons
+
+The left button (called the “result button”) is for showing the results. The upper right button (“next game button”) is for leaving the game and moving to the next game. The lower right button (“return button”) is for leaving the game and returning to the lobby. If the player is the host, the next game button is always available. If the player is a guest, the next game button becomes unavailable in the following cases.
+1. Before the host player pushes the next game button.
+2. If the host player does not move on to the next game.
+3. When the next game’s maximum number of payers has been reached.
+4. After the next game starts.
