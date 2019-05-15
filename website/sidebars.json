@@ -1,5 +1,5 @@
 {
   "how-to-play": {
-    "First Category": ["howToPlay"]
+    "First Category": ["howToPlay", "gamePhaseDuration"]
   }
 }
