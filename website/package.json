@@ -11,6 +11,7 @@
     "crowdin-download": "crowdin --config ../crowdin.yaml download -b master"
   },
   "devDependencies": {
-    "docusaurus": "^1.9.0"
+    "docusaurus": "^1.9.0",
+    "netlify-cli": "^2.11.18"
   }
 }

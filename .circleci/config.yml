@@ -21,9 +21,8 @@ jobs:
             # translations upload/download
             crowdin --config crowdin.yaml upload sources --auto-update -b master
             crowdin --config crowdin.yaml download -b master
-            cd website && yarn build && cd ..
-            # deploy ./build
-            # somothing to do
+            # deploy to Netlify
+            cd website && yarn build && yarn netlify deploy --dir=build/Licos --prod
 
 workflows:
   version: 2
