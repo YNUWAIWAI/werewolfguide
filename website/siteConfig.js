@@ -14,7 +14,7 @@ module.exports = {
     },
     {
       doc: 'howToPlay',
-      label: 'How To Play'
+      label: 'How to play'
     },
     {
       doc: 'terms',
