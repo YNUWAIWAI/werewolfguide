@@ -1,1 +1,1 @@
-# werewolfguide [![CircleCI](https://circleci.com/gh/YNUWAIWAI/werewolfguide.svg?style=svg)](https://circleci.com/gh/YNUWAIWAI/werewolfguide)
+# werewolfguide [![CircleCI](https://circleci.com/gh/YNUWAIWAI/werewolfguide.svg?style=svg)](https://circleci.com/gh/YNUWAIWAI/werewolfguide) [![Crowdin](https://d322cqt584bo4o.cloudfront.net/licos/localized.svg)](https://crowdin.com/project/licos)
