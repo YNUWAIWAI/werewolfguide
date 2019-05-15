@@ -19,6 +19,10 @@ module.exports = {
     {
       doc: 'terms',
       label: 'Terms'
+    },
+    {
+      doc: 'organization',
+      label: 'Organization'
     }
   ],
   highlight: {
