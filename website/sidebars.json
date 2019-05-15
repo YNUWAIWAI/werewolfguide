@@ -1,5 +1,10 @@
 {
   "how-to-play": {
-    "First Category": ["howToPlay", "gamePhaseDuration"]
+    "First Category": [
+      "howToPlay",
+      "gamePhaseDuration",
+      "compositionOfAVillage",
+      "strategyGuide"
+    ]
   }
 }
