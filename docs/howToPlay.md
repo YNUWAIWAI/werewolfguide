@@ -1,7 +1,7 @@
 ---
 id: howToPlay
-title: How To Play
-sidebar_label: How To Play
+title: How to play
+sidebar_label: How to play
 ---
 This is a party game of deception that consists of alternating rounds of “morning”, “noon” and “night” phases. 
 
