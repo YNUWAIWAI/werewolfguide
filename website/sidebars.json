@@ -4,7 +4,9 @@
       "howToPlay",
       "gamePhaseDuration",
       "compositionOfAVillage",
-      "strategyGuide"
+      "strategyGuide",
+      "guiForHumanPlayer",
+      "howToStartAGameAsAHumanPlayer"
     ]
   }
 }
