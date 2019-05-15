@@ -30,9 +30,9 @@ module.exports = {
   },
   onPageNav: 'separate',
   organizationName: 'YNUWAIWAI',
-  projectName: 'Licos',
+  projectName: 'LiCOS',
   scripts: ['https://buttons.github.io/buttons.js'],
-  tagline: 'The document for Licos',
-  title: 'Licos',
+  tagline: 'The document for LiCOS',
+  title: 'LiCOS',
   url: 'https://licos.online'
 }

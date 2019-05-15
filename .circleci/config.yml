@@ -22,7 +22,7 @@ jobs:
             crowdin --config crowdin.yaml upload sources --auto-update -b master
             crowdin --config crowdin.yaml download -b master
             # deploy to Netlify
-            cd website && yarn build && yarn netlify deploy --dir=build/Licos --prod
+            cd website && yarn build && yarn netlify deploy --dir=build/LiCOS --prod
 
 workflows:
   version: 2
