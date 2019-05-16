@@ -7,7 +7,6 @@ sidebar_label: Game phase duration
 
 ## Table 4 “Phase duration”
 
-
 <table style="text-align:center;">
   <thead>
     <tr>
