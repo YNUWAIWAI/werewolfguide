@@ -1,6 +1,6 @@
 ---
 id: theGame
-title: The game
+title: How to play
 sidebar_label: The game
 ---
 This is a party game of deception that consists of alternating rounds of “morning”, “noon” and “night” phases. 
