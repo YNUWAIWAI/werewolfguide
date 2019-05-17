@@ -24,7 +24,7 @@ Yudai Udagawa
 ## Localization
 
 ### English language
-Elisa Sakamto
+Elisa Sakamto  
 Kotaro Sakamoto
 
 ### French language

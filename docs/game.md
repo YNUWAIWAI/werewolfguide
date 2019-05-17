@@ -1,5 +1,5 @@
 ---
-id: theGame
+id: how-to-play
 title: How to play
 sidebar_label: The game
 ---

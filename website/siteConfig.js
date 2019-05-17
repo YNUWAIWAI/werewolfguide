@@ -13,7 +13,7 @@ module.exports = {
       languages: true
     },
     {
-      doc: 'theGame',
+      doc: 'how-to-play',
       label: 'How to play'
     },
     {
