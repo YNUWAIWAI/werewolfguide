@@ -1,8 +1,8 @@
 {
-  "how-to-play": {
+  "introduction": {
     "How To Play": [
-      "abstract",
-      "how-to-play",
+      "introduction",
+      "game",
       "game-over",
       "agents",
       "roles",
