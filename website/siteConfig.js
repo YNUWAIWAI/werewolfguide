@@ -18,11 +18,15 @@ module.exports = {
     },
     {
       doc: 'terms',
-      label: 'Terms'
+      label: 'Terms and Conditions'
     },
     {
       doc: 'organization',
       label: 'Organization'
+    },
+    {
+      doc: 'credits',
+      label: 'Credits'
     }
   ],
   highlight: {

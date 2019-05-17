@@ -1,7 +1,12 @@
 {
   "how-to-play": {
     "How To Play": [
-      "howToPlay",
+      "abstract",
+      "game",
+      "game-over",
+      "agents",
+      "roles",
+      "teams",
       "gamePhaseDuration",
       "compositionOfAVillage",
       "strategyGuide",
