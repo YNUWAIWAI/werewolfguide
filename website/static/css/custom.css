@@ -1,5 +1,16 @@
 /* your custom css */
 
+figure {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin: 1em 0;
+}
+
+figcaption {
+  text-align: center;
+}
+
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
 
