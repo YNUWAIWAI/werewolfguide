@@ -62,7 +62,7 @@ If you are a guest player who did not build the village, you have to wait until 
 
 ## Build your village
 
-If you want to build your village, you have to click the “Build your village” button in the “Lobby for human players” page as shown in [Figure 33](#figure33).
+If you want to build your village, you have to click the “Build your village” button in the “Lobby for human players” page and go to the "Build your village" page as shown in [Figure 33](#figure33).
 
 <figure id="figure33">
   <img
@@ -76,7 +76,7 @@ After you customize options on the left, you can click the “Build” button on
 
 ## ID search
 
-If you want to look for a specific village, you can click on id search from the lobby for human players as shown in [Figure 34](#figure34).
+If you want to look for a specific village, you can click on id search from the lobby for human players and go to the id search page as shown in [Figure 34](#figure34).
 
 <figure id="figure34">
   <img
