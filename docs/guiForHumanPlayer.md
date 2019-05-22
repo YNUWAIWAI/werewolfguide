@@ -8,7 +8,7 @@ sidebar_label: Graphical user interface for human player
 <figure id="figure1">
   <img
     alt="A screenshot of the morning phase"
-    src="/img/morning.png"
+    src="/img/en/morning.png"
   >
   <figcaption>Figure 1 “A screenshot of the morning phase”</figcaption>
 </figure>
@@ -18,7 +18,7 @@ sidebar_label: Graphical user interface for human player
 <figure id="figure2">
   <img
     alt="A screenshot of the noon phase"
-    src="/img/noon.png"
+    src="/img/en/noon.png"
   >
   <figcaption>Figure 2 “A screenshot of the noon phase”</figcaption>
 </figure>
@@ -26,7 +26,7 @@ sidebar_label: Graphical user interface for human player
 <figure id="figure3">
   <img
     alt="A screenshot of the night phase"
-    src="/img/night.png"
+    src="/img/en/night.png"
   >
   <figcaption>Figure 3 “A screenshot of the night phase”</figcaption>
 </figure>
@@ -38,7 +38,7 @@ sidebar_label: Graphical user interface for human player
 <figure id="figure4">
   <img
     alt="A screenshot of the graveyard"
-    src="/img/graveyard.png"
+    src="/img/en/graveyard.png"
   >
   <figcaption>Figure 4 “A screenshot of the graveyard”</figcaption>
 </figure>
@@ -50,7 +50,7 @@ The chat input form appears in the lower part. [Figure 5](#figure5) shows an exa
 <figure id="figure5">
   <img
     alt="An example of the chat input form"
-    src="/img/chatInputForm.png"
+    src="/img/en/chatInputForm.png"
   >
   <figcaption>Figure 5 “An example of the chat input form”</figcaption>
 </figure>
@@ -62,7 +62,7 @@ The numerals in the lower right of the textarea represents the character count. 
 <figure id="figure6">
   <img
     alt="Suggestions in the textarea"
-    src="/img/suggestionnsInTheTextarea.png"
+    src="/img/en/suggestionnsInTheTextarea.png"
   >
   <figcaption>Figure 6 “Suggestions in the textarea”</figcaption>
 </figure>
@@ -82,7 +82,7 @@ In the morning, if the player is still alive, the public chat form appears. The 
 <figure id="figure7">
   <img
     alt="The icon about public chat"
-    src="/img/publicChatIcon1.png"
+    src="/img/en/publicChatIcon1.png"
   >
   <figcaption>Figure 7 “The icon about public chat”</figcaption>
 </figure>
@@ -94,7 +94,7 @@ In the morning, if the player is still alive, the private memorandum form appear
 <figure id="figure8">
   <img
     alt="The icon about private memorandum"
-    src="/img/privateMemorandumIcon1.png"
+    src="/img/en/privateMemorandumIcon1.png"
   >
   <figcaption>Figure 8 “The icon about private memorandum”</figcaption>
 </figure>
@@ -106,7 +106,7 @@ In the morning, if the werewolf is still alive and the number of werewolves in t
 <figure id="figure9">
   <img
     alt="The icon of the werewolf chat"
-    src="/img/werewolfChatIcon1.png"
+    src="/img/en/werewolfChatIcon1.png"
   >
   <figcaption>Figure 9 “The icon of the werewolf chat”</figcaption>
 </figure>
@@ -118,7 +118,7 @@ If the player is dead, the graveyard chat form appears. The message from the for
 <figure id="figure10">
   <img
     alt="The icon of the graveyard chat"
-    src="/img/graveyardChatIcon1.png"
+    src="/img/en/graveyardChatIcon1.png"
   >
   <figcaption>Figure 10 “The icon of the graveyard chat”</figcaption>
 </figure>
@@ -130,7 +130,7 @@ Within twenty-four hours after the end of the game, the post-mortem discussion f
 <figure id="figure11">
   <img
     alt="The icon of the post-mortem discussion"
-    src="/img/postMortemChatIcon1.png"
+    src="/img/en/postMortemChatIcon1.png"
   >
   <figcaption>Figure 11 “The icon of the post-mortem discussion”</figcaption>
 </figure>
@@ -142,7 +142,7 @@ Chat-shaped timeline is a list of message balloons ordered by server timestamp. 
 <figure id="figure12">
   <img
     alt="Chat-shaped timeline"
-    src="/img/timeline.png"
+    src="/img/en/timeline.png"
   >
   <figcaption>Figure 12 “Chat-shaped timeline”</figcaption>
 </figure>
@@ -152,7 +152,7 @@ The player own icon is placed in the right of the balloon as shown in [Figure 13
 <figure id="figure13">
   <img
     alt="An example about a balloon of the player own message"
-    src="/img/ownMessage.png"
+    src="/img/en/ownMessage.png"
   >
   <figcaption>Figure 13 “An example about a balloon of the player own message”</figcaption>
 </figure>
@@ -160,7 +160,7 @@ The player own icon is placed in the right of the balloon as shown in [Figure 13
 <figure id="figure14">
   <img
     alt="An example about a balloon of an another player’s message"
-    src="/img/anothoerPlayerMessage.png"
+    src="/img/en/anothoerPlayerMessage.png"
   >
   <figcaption>Figure 14 “An example about a balloon of an another player’s message”</figcaption>
 </figure>
@@ -184,7 +184,7 @@ The message is shown to all the players. The color of the public chat is orange 
 <figure id="figure15">
   <img
     alt="The icon of the public chat"
-    src="/img/publicChatIcon2.png"
+    src="/img/en/publicChatIcon2.png"
   >
   <figcaption>Figure 15 “The icon of the public chat”</figcaption>
 </figure>
@@ -196,7 +196,7 @@ The message is shown only to the player who has written it. The color of the pri
 <figure id="figure16">
   <img
     alt="The icon of the private memorandum"
-    src="/img/privateMemorandumIcon2.png"
+    src="/img/en/privateMemorandumIcon2.png"
   >
   <figcaption>Figure 16 “The icon of the private memorandum”</figcaption>
 </figure>
@@ -208,7 +208,7 @@ The message is shown only to all the werewolves. The color of the werewolf chat 
 <figure id="figure17">
   <img
     alt="The icon of the werewolf chat"
-    src="/img/werewolfChatIcon2.png"
+    src="/img/en/werewolfChatIcon2.png"
   >
   <figcaption>Figure 17 “The icon of the werewolf chat”</figcaption>
 </figure>
@@ -220,7 +220,7 @@ The message is shown only to all the ghosts. The color of the graveyard chat is 
 <figure id="figure18">
   <img
     alt="The icon of the graveyard chat"
-    src="/img/graveyardChatIcon2.png"
+    src="/img/en/graveyardChatIcon2.png"
   >
   <figcaption>Figure 18 “The icon of the graveyard chat”</figcaption>
 </figure>
@@ -232,7 +232,7 @@ The message is shown to all the players. The color of the master comment is gree
 <figure id="figure19">
   <img
     alt="The icon of the master comment"
-    src="/img/masterIcon.png"
+    src="/img/en/masterIcon.png"
   >
   <figcaption>Figure 19 “The icon of the master comment”</figcaption>
 </figure>
@@ -244,7 +244,7 @@ The message is shown to all the audiences except the players. The color of the a
 <figure id="figure20">
   <img
     alt="The icon of the audience chat"
-    src="/img/audienceIcon.png"
+    src="/img/en/audienceIcon.png"
   >
   <figcaption>Figure 20 “The icon of the audience chat”</figcaption>
 </figure>
@@ -256,7 +256,7 @@ When noon or night comes, the vote input form as shown in [Figure 21](#figure21)
 <figure id="figure21">
   <img
     alt="Vote input form"
-    src="/img/voteForm1.png"
+    src="/img/en/voteForm1.png"
   >
   <figcaption>Figure 21 “Vote input form”</figcaption>
 </figure>
@@ -266,7 +266,7 @@ Otherwise, it shows no agent list as shown in [Figure 22](#figure22).
 <figure id="figure22">
   <img
     alt="No agent list"
-    src="/img/voteForm2.png"
+    src="/img/en/voteForm2.png"
   >
   <figcaption>Figure 22 “No agent list”</figcaption>
 </figure>
@@ -276,7 +276,7 @@ Once the player push an agent icon in the list, the confirmation dialog appears 
 <figure id="figure23">
   <img
     alt="Confirmation dialog"
-    src="/img/confirmationDialog.png"
+    src="/img/en/confirmationDialog.png"
   >
   <figcaption>Figure 23 “Confirmation dialog”</figcaption>
 </figure>
@@ -284,7 +284,7 @@ Once the player push an agent icon in the list, the confirmation dialog appears 
 <figure id="figure24">
   <img
     alt="Cannot reselect another agent after the yes button was clicked"
-    src="/img/voteForm3.png"
+    src="/img/en/voteForm3.png"
   >
   <figcaption>Figure 24 “Cannot reselect another agent after the yes button was clicked”</figcaption>
 </figure>
@@ -308,7 +308,7 @@ Roles like the seer and the medium have the ability to know if certain players a
 <figure id="figure25">
   <img
     alt="An example of the conjecture table"
-    src="/img/conjectureTable.png"
+    src="/img/en/conjectureTable.png"
   >
   <figcaption>Figure 25 “An example of the conjecture table”</figcaption>
 </figure>
@@ -323,7 +323,7 @@ The second table shows the winners’ team details and the third table shows the
 <figure id="figure26">
   <img
     alt="An example of the results (1/3)"
-    src="/img/results1.png"
+    src="/img/en/results1.png"
   >
   <figcaption>Figure 26 “An example of the results (1/3)”</figcaption>
 </figure>
@@ -331,7 +331,7 @@ The second table shows the winners’ team details and the third table shows the
 <figure id="figure27">
   <img
     alt="An example of the results (2/3)"
-    src="/img/results2.png"
+    src="/img/en/results2.png"
   >
   <figcaption>Figure 27 “An example of the results (2/3)”</figcaption>
 </figure>
@@ -339,7 +339,7 @@ The second table shows the winners’ team details and the third table shows the
 <figure id="figure28">
   <img
     alt="An example of the results (3/3)"
-    src="/img/results3.png"
+    src="/img/en/results3.png"
   >
   <figcaption>Figure 28 “An example of the results (3/3)”</figcaption>
 </figure>
@@ -351,7 +351,7 @@ After the end of the game, the post-mortem discussion form appears in the lower 
 <figure id="figure29">
   <img
     alt="Post-mortem discussion"
-    src="/img/postMortem.png"
+    src="/img/en/postMortem.png"
   >
   <figcaption>Figure 29 “Post-mortem discussion”</figcaption>
 </figure>

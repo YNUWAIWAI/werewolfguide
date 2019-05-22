@@ -22,7 +22,7 @@ Once you log in to the LiCOS, you will see the main page as shown in [Figure 30]
 <figure id="figure30">
   <img
     alt="Main page"
-    src="/img/mainPage.png"
+    src="/img/en/mainPage.png"
   >
   <figcaption>Figure 30 “Main page”</figcaption>
 </figure>
@@ -34,7 +34,7 @@ If you want to play a game as a human player, you should click the “Lobby for 
 <figure id="figure31">
   <img
     alt="Lobby for human players"
-    src="/img/humanLobby.png"
+    src="/img/en/humanLobby.png"
   >
   <figcaption>Figure 31 “Lobby for human players”</figcaption>
 </figure>
@@ -53,7 +53,7 @@ If there is a village which you want to participate in, you can click the villag
 <figure id="figure32">
   <img
     alt="Waiting page"
-    src="/img/waitingPage.png"
+    src="/img/en/waitingPage.png"
   >
   <figcaption>Figure 32 “Waiting page”</figcaption>
 </figure>
@@ -67,7 +67,7 @@ If you want to build your village, you have to click the “Build your village�
 <figure id="figure33">
   <img
     alt="Build your village"
-    src="/img/buildVillage.png"
+    src="/img/en/buildVillage.png"
   >
   <figcaption>Figure 33 “Build your village”</figcaption>
 </figure>
@@ -81,7 +81,7 @@ If you want to look for a specific village, you can click on id search from the 
 <figure id="figure34">
   <img
     alt="ID search"
-    src="/img/idSearch1.png"
+    src="/img/en/idSearch1.png"
   >
   <figcaption>Figure 34 “ID search”</figcaption>
 </figure>
@@ -91,7 +91,7 @@ You can input an id in the form on the right and click the “Search” button. 
 <figure id="figure35">
   <img
     alt="The village was found by the ID"
-    src="/img/idSearch2.png"
+    src="/img/en/idSearch2.png"
   >
   <figcaption>Figure 35 “The village was found by the ID”</figcaption>
 </figure>
@@ -103,7 +103,7 @@ If you want to search villages by other options, you can click the “Advanced s
 <figure id="figure36">
   <img
     alt="Advanced search"
-    src="/img/advancedSearch1.png"
+    src="/img/en/advancedSearch1.png"
   >
   <figcaption>Figure 36 “Advanced search”</figcaption>
 </figure>
@@ -113,7 +113,7 @@ You can input the options in the left form and click the “Search” button on 
 <figure id="figure37">
   <img
     alt="A village was found by the advanced search"
-    src="/img/advancedSearch2.png"
+    src="/img/en/advancedSearch2.png"
   >
   <figcaption>Figure 37 “A village was found by the advanced search”</figcaption>
 </figure>
