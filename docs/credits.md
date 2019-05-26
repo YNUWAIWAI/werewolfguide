@@ -21,6 +21,9 @@ Kotaro Sakmaoto
 ### GCP engineer
 Yudai Udagawa
 
+### Icon Artist
+Iwayan Setiawan
+
 ## Localization
 
 ### English language
