@@ -37,61 +37,67 @@
 
 ## Chapter 2. Prohibition
 ### Article 4.(Prohibition)
+<ol>
+  <li>Users must not do any action of the following in using the Service:<ol>
+    <li type="a">To make a Robot play the game with the avatar that is registered as Human Player;</li>
+    <li type="a">To do acts that violate section 8-5 with an avatar registered as a Robot Player;</li>
+    <li type="a">To illegally access the server that the Secretariat uses for providing the Service, or to intentionally send or receive a vast amount of data for the purpose of burdening the server;</li>
+    <li type="a">To do acts that cause trouble or damage to the Secretariat, other Users, or third parties, such as cracking, etc.;</li>
+    <li type="a">To infringe copyright, trademark right or other rights (including intellectual property rights) of the Secretariat;</li>
+    <li type="a">To slander or discriminate the Secretariat, other Users, or third parties;</li>
+    <li type="a">To injure or harm the reputation or credit of the Secretariat, other Users, or third parties;</li>
+    <li type="a">To do acts that may promote criminal or illegal behavior;</li>
+    <li type="a">To violate the laws of Japan or to commit offenses against public order and morals;</li>
+    <li type="a">To make a third party use the Service, or to transfer their rights relevant to the Service to a third party;</li>
+    <li type="a">To use the Service beyond the scope of purpose stated in section 2-4;</li>
+    <li type="a">To do any act that the Secretariat judges unsuitable.</li></ol></li>
+  <li>When Users send messages through the Service or set their profile images, they must not send messages or set images that fall under the following (hereinafter referred to as “prohibited messages, etc.”). In the case where the Secretariat finds prohibited messages, etc., the Secretariat is able to delete all or part of the prohibited messages, etc. without any notice to the Users who have sent the prohibited messages, etc.<ol>
+    <li type="a">Messages, etc. that contain expressions that may fall under the previous section (except the case where they make false remarks about a) and b) of the previous section);</li>
+    <li type="a">Messages, etc. that contain sexual description and violent expression, etc. (except specific expressions required for game progress);</li>
+    <li type="a">Messages, etc. that the public may feel uncomfortable with;</li>
+    <li type="a">Messages, etc. that exceed the file size or are not a designated file format that the Secretariat specifies;</li>
+    <li type="a">Messages, etc. that contain personal information and any other information capable of  identifying the Users individual (including false information);</li>
+    <li type="a">Messages, etc. that contain malware or other illegal programs;</li>
+    <li type="a">Messages, etc. that deviate from the purpose of the Service;</li>
+    <li type="a">Messages, etc. that contain links to other external websites.</li></ol></li>
+</ol>
 
-Users must not do any action of the following in using the Service:
-To make a Robot play the game with the avatar that is registered as Human Player;
-To do acts that violate section 8-5 with an avatar registered as a Robot Player;
-To illegally access the server that the Secretariat uses for providing the Service, or to intentionally send or receive a vast amount of data for the purpose of burdening the server;
-To do acts that cause trouble or damage to the Secretariat, other Users, or third parties, such as cracking, etc.;
-To infringe copyright, trademark right or other rights (including intellectual property rights) of the Secretariat;
-To slander or discriminate the Secretariat, other Users, or third parties;
-To injure or harm the reputation or credit of the Secretariat, other Users, or third parties;
-To do acts that may promote criminal or illegal behavior;
-To violate the laws of Japan or to commit offenses against public order and morals;
-To make a third party use the Service, or to transfer their rights relevant to the Service to a third party;
-To use the Service beyond the scope of purpose stated in section 2-4;
-To do any act that the Secretariat judges unsuitable.
-When Users send messages through the Service or set their profile images, they must not send messages or set images that fall under the following (hereinafter referred to as “prohibited messages, etc.”). In the case where the Secretariat finds prohibited messages, etc., the Secretariat is able to delete all or part of the prohibited messages, etc. without any notice to the Users who have sent the prohibited messages, etc.
-Messages, etc. that contain expressions that may fall under the previous section (except the case where they make false remarks about a) and b) of the previous section);
-Messages, etc. that contain sexual description and violent expression, etc. (except specific expressions required for game progress);
-Messages, etc. that the public may feel uncomfortable with;
-Messages, etc. that exceed the file size or are not a designated file format that the Secretariat specifies;
-Messages, etc. that contain personal information and any other information capable of  identifying the Users individual (including false information);
-Messages, etc. that contain malware or other illegal programs;
-Messages, etc. that deviate from the purpose of the Service;
-Messages, etc. that contain links to other external websites.
+## Chapter 3. Account
+### Article 5. (Account)
+<ol>
+  <li>Users who hope to use the Service shall register their accounts according to the methods specified by the Secretariat.</li>
+  <li>The Secretariat is able to reject the account registrations of Users who fall under the following circumstances.:<ol>
+    <li type="a">In the case where they are a minor, and where the fact that they applied to register their account without parental approval is revealed;</li>
+    <li type="a">In the case where they have been penalized by the Secretariat before;</li>
+    <li type="a">In the case where the fact that they either belong to, relate to, or have provided funding to antisocial organizations (such as gang group, crime organization, etc.) is revealed;</li>
+    <li type="a">In the case where the Secretariat judges them to be unsuitable as Users.</li></ol></li>
+  <li>Users shall carefully manage their login ID and password for using the Service (hereinafter, "login ID and password for logging into the Service" are referred to as "Login Credentials").</li>
+  <li>In the case where the Login Credentials entered while using the Service coincide with the Login Credentials previously registered, the Secretariat deems such use to be by the Users who maintain the accounts.</li>
+  <li>Users shall pay all damages, costs and expenses caused by inaccurate maintaining of, error or omission in using their Login Credentials.</li>
+  <li>In the case where the need to change or modify all or part of Login Credentials of Users arises for any reason, they shall apply to reissue their accounts by method that the Secretariat specifies.</li>
+  <li>Validity period of the Service is unlimited unless either the Secretariat or Users makes any request. However, the Secretariat is able to delete accounts of Users who have not logged into the Service for the period the Secretariat specifies.</li>
+  <li>Users who hope to withdraw from the Service shall apply to withdraw by method that the Secretariat specifies. The Users’ accounts will be deleted at the time of completion of the withdrawal procedure.</li>
+</ol>
 
+### Article 6. (Penalties)
+<ol>
+  <li>In the case where Users fall under the following, the Secretariat is able to restrict their access to the Service, suspend their accounts, and/or forcibly delete their accounts without any notice.<ol>
+    <li type="a">When they do any acts in contravention of Article 4;</li>
+    <li type="a">When the Secretariat judges that they merit penalty because of frequent complaints about them from other Users;</li>
+    <li type="a">When they intentionally violate these Terms and Guidelines, or when they do malicious violations;</li>
+    <li type="a">When they disobey any instructions related to important things about usage of the Services by the Secretariat;</li>
+    <li type="a">When the Secretariat deems them to be unsuitable as Users.</li></ol></li>
+  <li>In the case where the Secretariat penalizes Users based upon the previous section, the Secretariat assumes no liability related to the penalizing of the Users.</li>
+</ol>
 
-Chapter 3. Account
-Article 5. (Account)
-Users who hope to use the Service shall register their accounts according to the methods specified by the Secretariat.
-The Secretariat is able to reject the account registrations of Users who fall under the following circumstances.:
-In the case where they are a minor, and where the fact that they applied to register their account without parental approval is revealed;
-In the case where they have been penalized by the Secretariat before;
-In the case where the fact that they either belong to, relate to, or have provided funding to antisocial organizations (such as gang group, crime organization, etc.) is revealed;
-In the case where the Secretariat judges them to be unsuitable as Users.
-Users shall carefully manage their login ID and password for using the Service (hereinafter, "login ID and password for logging into the Service" are referred to as "Login Credentials").
-In the case where the Login Credentials entered while using the Service coincide with the Login Credentials previously registered, the Secretariat deems such use to be by the Users who maintain the accounts.
-Users shall pay all damages, costs and expenses caused by inaccurate maintaining of, error or omission in using their Login Credentials.
-In the case where the need to change or modify all or part of Login Credentials of Users arises for any reason, they shall apply to reissue their accounts by method that the Secretariat specifies.
-Validity period of the Service is unlimited unless either the Secretariat or Users makes any request. However, the Secretariat is able to delete accounts of Users who have not logged into the Service for the period the Secretariat specifies.
-Users who hope to withdraw from the Service shall apply to withdraw by method that the Secretariat specifies. The Users’ accounts will be deleted at the time of completion of the withdrawal procedure.
+### Article 7. (Measures at the Time of Deletion of Accounts)
+<ol>
+  <li>When Users’ accounts are deleted for any reason, they shall lose all the rights to use the Service at the time of completion of deletion of their accounts.</li>
+  <li>When Users’ accounts are deleted for any reason, the Secretariat is able to delete all or part of information and data both related to the Users and stored on cloud of the Service at the time of deletion of their accounts. In addition, all avatars registered by the Users also will be deleted with the deletion of their accounts.</li>
+</ol>
 
-Article 6. (Penalties)
-In the case where Users fall under the following, the Secretariat is able to restrict their access to the Service, suspend their accounts, and/or forcibly delete their accounts without any notice.
-When they do any acts in contravention of Article 4;
-When the Secretariat judges that they merit penalty because of frequent complaints about them from other Users;
-When they intentionally violate these Terms and Guidelines, or when they do malicious violations;
-When they disobey any instructions related to important things about usage of the Services by the Secretariat;
-When the Secretariat deems them to be unsuitable as Users.
-In the case where the Secretariat penalizes Users based upon the previous section, the Secretariat assumes no liability related to the penalizing of the Users.
-
-Article 7. (Measures at the Time of Deletion of Accounts)
-When Users’ accounts are deleted for any reason, they shall lose all the rights to use the Service at the time of completion of deletion of their accounts.
-When Users’ accounts are deleted for any reason, the Secretariat is able to delete all or part of information and data both related to the Users and stored on cloud of the Service at the time of deletion of their accounts. In addition, all avatars registered by the Users also will be deleted with the deletion of their accounts.
-
-Chapter 4. Miscellaneous Provisions
-Article 8. (Special Contract for Robot Players)
+## Chapter 4. Miscellaneous Provisions
+### Article 8. (Special Contract for Robot Players)
 When Users register an avatar as a Robot Player, they shall provide accurate information about whether the robot used with the avatar is fully automatic or semiautomatic (whether it requires user operation or not).
 Users who have registered avatars as Robot Players shall give version information appropriately to their robots according to the “versioning guidelines” the Secretariat separately specifies.
 When Users register avatars as Robot Players, the secretariat issues an access token for each avatar. Users shall add the issued access token to the robot that they will register, and use the robot with the avatar related to the access token.
