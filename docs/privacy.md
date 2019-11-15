@@ -1,85 +1,89 @@
-「人狼ゲームライコス」プライバシーポリシー
- 
-第１条（総則）
-ブラウザゲーム「人狼ゲームライコス」（以下「本サービス」といいます。）を運営する「人狼ゲームライコス運営事務局」（以下「当事務局」といいます。）は、本サービスの利用者（以下「ユーザー」という）のプライバシーを尊重し、ユーザーの個人情報およびその他のユーザーのプライバシーに係る情報（以下「プライバシー情報」といいます。）の管理に細心の注意を払います。
-当事務局は、個人情報保護法をはじめとする日本国の各法令およびその他の規範に則り、それらを遵守してユーザーから収集した個人情報を適切に取り扱います。ユーザーは、そのことにあらかじめ同意するものとし、当事務局は、ユーザーが本サービスを介して自身のプライバシーに係る情報を提供したことをもって、当該ユーザーが本ポリシーに同意したものとみなします。
-本サービスではクッキーを利用してユーザーの履歴や嗜好に関する情報を収集します。ユーザーがクッキーの使用を許諾した場合、ユーザーのブラウザ等にテキストファイルが保存されます。ユーザーは、本サービスの閲覧や利用を継続することで当事務局によるクッキーの使用について同意するものとします。
+Privacy Policy of “LiCOS: A Game of Werewolves”
 
-第２条（本ポリシーへの同意、同意の撤回）
-ユーザーは、問い合わせをする等により当事務局に自身のプライバシー情報を提供する場合、本ポリシーを熟読し、その内容に同意するものとします。
-ユーザーは、当事務局によるプライバシー情報の使用等について同意を撤回することができます。
-本条の本ポリシーへの同意および同意の撤回は、それぞれ当事務局が定める手段にてなされるものとします。
- 
-第３条（収集するプライバシー情報）
-当事務局は、本サービスの提供に際して、ユーザーから以下の情報を収集または取得します。
-ユーザーがログインID及びニックネームとして指定した情報：これには電子メールアドレスが含まれます。
-ユーザーがフォーム等に入力することにより提供する情報：これには氏名、問い合わせ等に関する情報、年齢または生年月日等が含まれます。
-IPアドレスやアクセスログ、アクセス解析ツール等を介して当事務局がユーザーから収集する情報：これには利用端末やOS、ブラウザ等の接続環境に関する情報、ユーザーの行動履歴や閲覧履歴等に関する情報、購入した商品や閲覧した商品等のユーザーの嗜好に関する情報およびクッキー情報が含まれます。なお、これらの情報にはユーザー個人を特定しうる個人情報に該当する情報は、含まれません。
-当事務局は、適法かつ公正な手段によってプライバシー情報を入手し、ユーザーの意思に反する不正な入手をしません。
- 
-第４条（プライバシー情報の利用目的）
-当事務局は、ユーザーから収集したプライバシー情報を本サービスの運営の目的のために使用します。主な利用目的は、以下のとおりです。
-本人確認のため
-利用規約やポリシーの変更等の重要な通知を送信するため
-本サービスのコンテンツやサービスの内容や質の向上に役立てるため
-アンケート、懸賞、キャンペーン等の実施のため
-マーケティング調査、統計、分析のため
-システムメンテナンス、不具合対応のため
-広告の配信およびその成果確認のため
-技術サポートの提供、お客様からの問い合わせ対応のため
-ターゲットを絞った当事務局または第三者の商品またはサービスの広告の開発、提供のため
-不正行為または違法となる可能性のある行為を防止するため
-紛争・訴訟等の対応のため
- 
-第５条（プライバシー情報の第三者提供）
-当事務局は、ユーザーの個人情報を第三者に開示または提供する場合、その提供先・提供情報内容を開示し、ユーザー本人の同意を得るものとします。なお、当事務局は、以下の場合を除き、ユーザー本人の事前の同意を得ることなく、個人情報を第三者に開示または提供することはありません。
-法令等の定めに基づいて開示等を請求された場合
-弁護士、検察、警察等から捜査に必要な範囲で開示等を請求された場合
-当事務局の関連会社間で情報を共有する場合
-本サービスの提供に必要な範囲で第三者に業務の一部を委託する場合
-当事務局は、個人情報の取り扱いを第三者に委託する場合、個人情報保護法に従って、委託先に対する必要かつ適切な監督を行います。
-当事務局は、合併や分割等で当事務局の事業を第三者に譲渡する場合または本サービスの一部または全部を第三者に譲渡する場合、本サービスに係るユーザーの個人情報等を当該第三者に提供します。この場合、当事務局は、本サービスの譲渡日および譲渡先を事前にユーザーに開示し、これに同意できないユーザーの個人情報等の提供は、一切しないものとします。
- 
-第６条（プライバシー情報の管理、保管期間）
-当事務局は、ユーザーが本サービスを利用している期間中、当該ユーザーから開示または提供されたプライバシー情報を厳重に管理します。
-当事務局は、当事務局が保管するプライバシー情報を利用する必要がなくなった場合、当該プライバシー情報を遅滞なく消去するよう努めるものとします。また、ユーザーよりプライバシー情報の削除を要求された場合も、同様とします。
- 
-第７条（ユーザーによる照会等への対応）
-ユーザーは、当事務局に対して、当事務局が保有する自身のプライバシー情報の開示、訂正、追加または削除、および利用停止を請求することができます。
-ユーザーは、当事務局が定める手段によって前項の開示等の請求をするものとします。なお、同請求は、ユーザー本人、法定代理人（ユーザーが未成年者または成年被後見人である場合）または当該請求につきユーザー本人より委任された代理人のみすることができます。
-当事務局は、開示等の請求を受けた場合、当事務局が定める手段によって本人確認したうえで、相当な期間内にこれに対応します。なお、当事務局は、法令に基づき開示等をしない決定をした場合、その旨をユーザーに通知するものとします。
-当事務局は、ユーザーからプライバシー情報の削除の請求を受けた場合でも、犯罪や不正の防止のために必要であると判断した場合には、そのユーザーのプライバシー情報の一部を保持し続けることができるものとし、ユーザーは、そのことにあらかじめ同意するものとします。また、プライバシー情報の削除の請求をしたユーザーが利用料金の未納等をしている場合や当該ユーザーとの間で紛争等が発生している場合には、プライバシー情報の削除は、それらの問題の解決後になされるものとします。
-ユーザーは、プライバシー情報の開示等の請求に際して、以下に定める手数料を支払わなければなりません 。
-開示、照会、追加、訂正および削除請求にかかる手数料額
-５００円＋送料
-※　原則的に簡易書留（送料３９２円）にて発送します。
- 
-第８条（解析ツール等の使用）
-当事務局は、アクセス解析ツールを使用してユーザーの行動履歴等に関する情報を収集します。また、本サービスの提供に係るウェブサイト上に掲載される広告等の一部は、クッキーを利用した外部サービスを利用して表示されます。なお、Googleが提供するサービスについては、Googleのプライバシーポリシーが適用されます。Googleのプライバシーポリシーについては、下記のリンク先をご確認ください。
-https://policies.google.com/privacy?hl=ja                     	
-ユーザーは、1)自身のブラウザ設定等からクッキーを無効にする、2)それぞれの解析ツール、行動ターゲティング広告システムに係るWEBページからオプトアウトする、等の手段により当事務局によるプライバシー情報の収集を拒否するまたは行動ターゲティング広告を非表示にすることができます。
-前項の設定の変更等は、ユーザー自身の自己責任にてなされるものとし、当事務局は、設定を変更したこと等により一部の情報が閲覧できない等、ユーザーに損害が生じた場合でも、一切責任を負わないものとします。
- 
-第９条（本ポリシーの変更）
-当事務局は、自身の判断にて、本ポリシーを改定することができます。当事務局は、本ポリシーを改定する場合、緊急性がある場合を除き、事前に当事務局が適当であると判断する手段にてユーザーにその旨を通知するものとします。
-本ポリシーの改定は、改定後のプライバシーポリシーを本サービスにかかるWEBサイト上に掲載した時点で効力を生じるものとします。
-ユーザーは、本ポリシーの改定に同意することができない場合、当事務局に対して、第７条に定める手段にて自身のプライバシー情報の削除を要求することができます。
- 
-第１０条（合意管轄、準拠法）
-本ポリシーは、日本国法に準拠して解釈されるものとします。
-ユーザーは、本ポリシーに関連して紛争等が発生した場合、横浜地方裁判所において第一審の裁判を行うことにあらかじめ同意するものとします。
-本ポリシーの他国語への翻訳版は、利用者の便宜を図ることのみを目的として当事務局が提供するものであり、日本語版と翻訳版に齟齬や矛盾が生じる場合、日本語版が優先するものとします。
- 
-第１１条（管理責任者）
-当事務局では、個人情報の管理責任者を以下の者として、個人情報の適正な管理および個人情報保護に関する施策の継続的な改善を実施しています。なお、個人情報に関するお問い合わせ、ご相談、第７条の開示等の請求の窓口もこちらをご利用ください。
-運営者：
-人狼ゲームライコス運営事務局
-窓口となる部署
-個人情報担当窓口
-E-メールアドレス：
-info@dummy.com
-開示等の請求の方法
-メール
-※　日本語以外での問い合わせ等には対応までお時間をいただく場合があります。
- 
-【改定：令和元年７月１日】
+(General Provisions)
+The "Executive Secretariat of LiCOS: A Game of Werewolves" (hereinafter referred to as "the Secretariat") that operates the browser game named “LiCOS: A Game of Werewolves” (hereinafter referred to as “the Service”) respects the privacy of users of the Service (hereinafter referred to as “Users”) and exerts extreme caution in managing of Users’ personal information and information which relates to Users’ privacy other than personal information (hereinafter “both personal information and information which relates to privacy” are referred to as “Privacy Information”).
+In addition, hereinafter this “Privacy Policy of LiCOS: A Game of Werewolves” is referred to as “This Policy”.
+The Secretariat both abides by “Act on the Protection of Personal Information” of Japan (hereinafter referred to as “the Law”) and other regulations relevant to the Law, and handles personal information collected from Users. The Secretariat also has been continuously improving the handling of Users' personal information, by strengthening the system for handling personal information, by introducing SSL technology, and by taking other reasonable methods.
+Cookies are used in the Service to collect information about Users' history and preferences. When User permits the use of cookies, a text file is saved in the Users' browser. When Users continue to browse and use the Service, the Secretariat deems that they have agreed about the use of cookies by the Secretariat.
+
+(Agreement to This Policy, Withdrawal of Agreement)
+When Users provide their Privacy Information to the Secretariat for reason such as inquiring to the Secretariat, etc., they shall both read carefully and agree with all provisions of This Policy.
+Users are able to withdraw their agreement to using of Privacy Information by the Secretariat at any time.
+The agreement and the withdrawal of Users’ agreement of This Article shall be by method that the Secretariat specifies.
+
+(Privacy Information Collected by the Secretariat)
+The Secretariat collects and acquires the following information from Users:
+Information that they specify as login ID and nicknames: including e-mail address;
+Information that they provide to the Secretariat by inputting inquiry form, etc.: including name, information relevant to the inquiry, age or the date of birth, etc.;
+Information that the Secretariat collects from Users by using IP-address, access log, traffic analysis tools, etc.: including information relevant to connection environment such as devices, OS, browsers, etc., information relevant to their action history or browsing history, etc., these information does not include information that falls under "personal information" capable of identifying User individual.
+The Secretariat collects Users’ Privacy Information by just and legitimate methods, and not by illegal methods that is contrary to Users’ will.
+
+(Purpose of Use of Privacy Information)
+The Secretariat uses Privacy Information collected from Users for the purpose of operation of the Service. Main purpose of use is as follows:
+To confirm identity of Users, or for authentication service;
+To send important notice about the amendment of Terms of Use, guidelines, policy, etc. of the Secretariat;
+To develop, to provide, to maintain, and to improve contents and quality of the Service;
+To implement questionnaires, prize competitions, campaigns;
+To research, aggregate, and analyze data  for marketing;
+To respond to problems, or to maintain the systems;
+To provide advertisement, and to check the result of the advertisement;
+To provide technical support, or to respond to an inquiry, etc. from Users;
+To develop and to provide targeted advertisement of products or services of the Secretariat or third party;
+To prevent illegal acts or acts that may be illegal;
+To respond to conflict or lawsuit;
+
+(Provision of Privacy Information to Third Party)
+In the case where the Secretariat discloses or provides Users’ personal information, the Secretariat both discloses the counterparty and contents of information of disclosure to Users and obtains Users’ prior consent. In addition, except the following cases, the Secretariat does not provide or disclose the Privacy Information to any third party without the Users’ approval or permission:
+In the case where disclosure, etc. is requested based on the provisions of laws and regulations;
+In the case where disclosure, etc. is requested by lawyers, prosecutors, police, etc. to the extent necessary for the investigation;
+In the case where the information is shared among affiliates of the Secretariat;
+In the case where the Secretariat outsources a part of businesses or tasks to third party to the extent necessary to provide the Service;
+
+In the case where the Secretariat outsources treatment of Users’ personal information to third party, the Secretariat makes necessary and appropriate supervision to the outsourcing contractor based upon the Law.
+In the case where the Secretariat transfers either its business through merger, division, etc. or all or part of the Service to a third party, the Secretariat may transfer Users’ personal information, etc. relevant to the Service to the third party. In this case, the Secretariat both discloses information about counterparty and date of the transferring to the Users, and does not provide personal information of users who does not agree with the transferring.
+
+(Managing, Retention Period of Privacy Information)
+The Secretariat manages Privacy Information provided or disclosed from Users closely during they use the Service.
+In the case where the Secretariat no longer needs to use Privacy Information that the Secretariat stores, the Secretariat makes an effort to delete the Privacy Information with no delay. Also, the same shall apply to the case where Users require the Secretariat to delete their Privacy Information.
+
+(Correspondence to Inquiry, etc. from Users)
+Users are able to request the Secretariat to inquiry, to disclose, to adjust, to add, to delete, or to suspend the use of the Privacy Information relevant to them that the Secretariat possesses.
+The requests of previous section shall be by method that the Secretariat states. Also, the requests shall be only by Users themselves, their legal representative (if Users are minors), and agents who authorized by them about the requests.
+In the case where the Secretariat receives the requests of section 7-1, the Secretariat confirms the Users’ identity and responds to the request within a reasonable period.
+However, if the Secretariat decides not to disclose their Privacy Information based upon the Law, the Secretariat notifies them accordingly.
+Even if the Secretariat receives requests for the deletion of Privacy Information from Users, if the Secretariat determines that it is necessary for the prevention of crimes and fraud, the Secretariat may retain part of their Privacy Information, and Users shall agree to this beforehand.
+In addition, if Users who requested the deletion of Privacy Information have not paid the usage fee of the Service, or if any disputes with them exist, the deletion of Privacy Information shall be made after resolution of the problems.
+When Users request for disclosure, etc. of their Privacy Information, they shall pay the following fees.
+
+Fees for request of disclosure, inquiry, adding, adjusting, and deleting
+JPY500 + Postage fee
+(In principle, sent by registered mail, and domestic delivery in Japan should be by simple registered mail (JPY392).
+
+ (Using of Analytical Tool, etc.)
+The Secretariat collects Users’ Privacy Information by using analytical tool such as Google Analytics, etc. In addition, part of advertisements displayed on Website related to the Service use behavioral targeting advertising system that third party provides and that uses cookies.
+When the Secretariat provides the Service by using any of services that Google, Inc. (hereinafter referred to as “Google”) provides such as Analytics, AdSense, etc., Google Privacy Policy shall be applied to the services that Google provides.
+About Google Privacy Policy, see below.
+https://policies.google.com/privacy?hl=en
+Users may refuse collection of their Privacy Information by the Secretariat or to hide or remove the behavioral targeting advertising either 1) by disabling cookies in their browser, or 2) by opting out via the webpage which is associated with the analytical tool or the behavioral targeting advertising.
+Users shall take self-responsibility for the change of setting, etc. of previous section, and the Secretariat assumes no liability and responsibility for all damages arising from their changes of  the setting, etc.: such as occurrence of disappearance of all or part of information about the Service.
+
+ (Amendment of This Policy)
+The Secretariat is able to amend This Policy in the judgement of the Secretariat. In the case where the Secretariat amends This Policy, except the case of urgency, the Secretariat preliminarily notifies accordingly to Users by method that the Secretariat judges suitable.
+Amendment of This Policy should become effective immediately when the Secretariat uploads the updated This Policy on the Website related to the Service.
+If amendment of This Policy is unacceptable, Users are able to request to delete their Privacy Information against the Secretariat by method stated in Article 7.
+
+(Jurisdiction/Governing Law)
+This Policy is governed by and construed in accordance with the Laws and regulations of Japan.
+In the case where dispute among Users and the Secretariat arises in association with This Policy, Users shall acknowledge and agree that Yokohama district court shall have competent and exclusive jurisdiction for the first instance.
+Translations of the Japanese version of This Policy shall be provided for Users’ convenience only. If difference or contradiction between the translation versions and the Japanese version exists, the Japanese version of This Policy shall prevail.
+
+ (Chief Administrator)
+The Secretariat appoints the following person to be Chief Administrator of Personal Information, and tries to manage Personal Information appropriately and to improve enforcement of policies related to protection of Personal Information continuously. In addition, the following person should be the contact both for inquiry or advisement about Personal Information and for the requests of Article 7 at the Secretariat.
+Operator of the Service: Executive Secretariat of LiCOS: A Game of Werewolves
+Desk for Inquiry: Personal Information Desk
+E-Mail Address: info@dummy.com
+Method of the claim for disclosure, etc.: Only by email
+(Claim by Inquiries etc. other than Japanese may take time until replying.)
+
+Establishment Date: June 1st, 2019 
+
