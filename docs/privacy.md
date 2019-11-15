@@ -1,3 +1,9 @@
+---
+id: privacy
+title: Privacy Policy
+sidebar_label: Privacy Policy
+---
+
 Privacy Policy of “LiCOS: A Game of Werewolves”
 
 (General Provisions)
