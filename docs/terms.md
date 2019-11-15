@@ -1,7 +1,7 @@
 ---
 id: terms
-title: Terms of Use of “LiCOS: A Game of Werewolves”
-sidebar_label: Terms of Use of “LiCOS: A Game of Werewolves”
+title: 'Terms of Use of “LiCOS: A Game of Werewolves”'
+sidebar_label: 'Terms of Use of “LiCOS: A Game of Werewolves”'
 ---
 
 These "Terms of Use of LiCOS: A Game of Werewolves” (hereinafter referred to as “These Terms”) stipulate the terms and conditions regarding the use of the browser game of “LiCOS: A Game of Werewolves” (hereinafter referred to as “the Service”).
