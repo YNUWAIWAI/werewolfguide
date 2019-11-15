@@ -8,7 +8,6 @@ These "Terms of Use of LiCOS: A Game of Werewolves” (hereinafter referred to a
 
 These Terms shall apply to any relationship between the person who uses the Service (hereinafter referred to as "User") and the "Executive Secretariat of LiCOS: A Game of Werewolves " (hereinafter referred to as "the Secretariat") that operates the Service.
 
-
 ## Chapter 1. General Rules
 ### Article 1. (Agreement to These Terms, Range of Application)
 <ol>
