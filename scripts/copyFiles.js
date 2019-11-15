@@ -2,6 +2,7 @@ const fs = require('fs')
 const path = require('path')
 
 const srcFiles = [
+  'faq.md',
   'privacy.md',
   'terms.md'
 ]
