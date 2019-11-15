@@ -2,16 +2,15 @@ const fs = require('fs')
 const path = require('path')
 const srcFiles = require('./srcFiles')
 const srcDir = path.join(__dirname, '..', 'docs', 'ja')
-const distDir = path.join(__dirname, '..', 'website', 'translated_docs', 'ja')
 
 srcFiles.forEach(fileName => {
   const srcPath = path.join(srcDir, fileName)
-  const distPath = path.join(distDir, fileName)
+  const distPath = path.join(srcDir, `${fileName}.exclude`)
 
-  fs.copyFile(srcPath, distPath, err => {
+  fs.rename(srcPath, distPath, err => {
     if (err) {
       throw err
     }
-    console.log('Copied:', srcPath, '=>', distPath)
+    console.log('Rename:', srcPath, '=>', distPath)
   })
 })
