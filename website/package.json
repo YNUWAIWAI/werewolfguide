@@ -2,7 +2,8 @@
   "scripts": {
     "examples": "docusaurus-examples",
     "start": "docusaurus-start",
-    "build": "docusaurus-build && yarn build:image",
+    "copy": "node ../scripts/copyFiles.js",
+    "build": "yarn copy && docusaurus-build && yarn build:image",
     "build:image": "node buildImage.js",
     "publish-gh-pages": "docusaurus-publish",
     "write-translations": "docusaurus-write-translations",
