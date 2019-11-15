@@ -18,7 +18,7 @@ module.exports = {
     },
     {
       doc: 'terms',
-      label: 'Terms and Conditions'
+      label: 'Terms of Use'
     },
     {
       doc: 'organization',
