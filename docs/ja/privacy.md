@@ -1,7 +1,5 @@
 ---
 id: privacy
-title: Privacy Policy
-sidebar_label: Privacy Policy
 ---
 
 「人狼ゲームライコス」プライバシーポリシー

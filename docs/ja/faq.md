@@ -1,7 +1,5 @@
 ---
 id: faq
-title: よくあるご質問（FAQ）
-sidebar_label: よくあるご質問（FAQ）
 ---
 
 ## データ保護規則
