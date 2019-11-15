@@ -1,6 +1,6 @@
 {
   "introduction": {
-    "How To Play": [
+    "How to play": [
       "introduction",
       "game",
       "game-over",
@@ -12,6 +12,13 @@
       "strategyGuide",
       "guiForHumanPlayer",
       "howToStartAGameAsAHumanPlayer"
+    ]
+  },
+  "privacy": {
+    "Privacy and Terms": [
+      "privacy",
+      "terms",
+      "faq"
     ]
   }
 }
