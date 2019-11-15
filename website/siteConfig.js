@@ -17,8 +17,8 @@ module.exports = {
       label: 'How to play'
     },
     {
-      doc: 'terms',
-      label: 'Terms of Use'
+      doc: 'privacy',
+      label: 'Privacy and Terms'
     },
     {
       doc: 'organization',
