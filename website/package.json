@@ -4,7 +4,7 @@
     "start": "docusaurus-start",
     "copy": "node ../scripts/copyFiles.js",
     "build": "yarn copy && docusaurus-build && yarn build:image",
-    "build:image": "node buildImage.js",
+    "build:image": "node ../scripts/buildImage.js",
     "publish-gh-pages": "docusaurus-publish",
     "write-translations": "docusaurus-write-translations",
     "version": "docusaurus-version",
