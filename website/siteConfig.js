@@ -1,3 +1,5 @@
+const organizationName = 'YNUWAIWAI'
+
 module.exports = {
   baseUrl: '/',
   cleanUrl: true,
@@ -5,7 +7,7 @@ module.exports = {
     primaryColor: '#836d2d',
     secondaryColor: '#5b4c1f'
   },
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `Copyright © ${new Date().getFullYear()} ${organizationName}`,
   favicon: 'img/favicon.ico',
   headerIcon: 'img/favicon.ico',
   headerLinks: [
@@ -33,9 +35,10 @@ module.exports = {
     theme: 'default'
   },
   onPageNav: 'separate',
-  organizationName: 'YNUWAIWAI',
+  organizationName,
   projectName: 'LiCOS',
   scripts: ['https://buttons.github.io/buttons.js'],
+  scrollToTop: true,
   tagline: 'The document for LiCOS',
   title: 'LiCOS',
   url: 'https://licos.online'
