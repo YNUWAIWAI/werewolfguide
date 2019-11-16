@@ -1,10 +1,8 @@
 ---
 id: privacy
-title: Privacy Policy
-sidebar_label: Privacy Policy
+title: "Privacy Policy of “LiCOS: A Game of Werewolves”"
+sidebar_label: "Privacy Policy of “LiCOS: A Game of Werewolves”"
 ---
-
-Privacy Policy of “LiCOS: A Game of Werewolves”
 
 (General Provisions)
 The "Executive Secretariat of LiCOS: A Game of Werewolves" (hereinafter referred to as "the Secretariat") that operates the browser game named “LiCOS: A Game of Werewolves” (hereinafter referred to as “the Service”) respects the privacy of users of the Service (hereinafter referred to as “Users”) and exerts extreme caution in managing of Users’ personal information and information which relates to Users’ privacy other than personal information (hereinafter “both personal information and information which relates to privacy” are referred to as “Privacy Information”).
