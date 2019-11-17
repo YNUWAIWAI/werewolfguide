@@ -21,9 +21,13 @@ These Terms shall apply to any relationship between the person who uses the Serv
 <ol class="article">
   <li>When Users use the Service, they shall register an account with the Service and use the account.</li>
   <li>Users shall take self-responsibility for their actions related to using the Service.</li>
-  <li>Users are able to use the Service for either or both of the following purposes:<ol class="paragraph">
-    <li>The case where Users play a game of the Service by operating a browser, etc. (hereinafter, “the User who plays the game by operating the browser” is referred to as “Human Player”): in the range of the purpose of personal use;</li>
-    <li>The case where Users play a game of the Service by using any program, etc. (hereinafter referred to as “Robot”) that they own or have developed (hereinafter "the User who plays the game by using Robot" is referred to as “Robot Player”): for the purpose of research, education, and/or development of Robot (including for-profit development, but development for inappropriate purposes is naturally excluded).</li></ol></li>
+  <li>
+    Users are able to use the Service for either or both of the following purposes:
+    <ol class="paragraph">
+      <li>The case where Users play a game of the Service by operating a browser, etc. (hereinafter, “the User who plays the game by operating the browser” is referred to as “Human Player”): in the range of the purpose of personal use;</li>
+      <li>The case where Users play a game of the Service by using any program, etc. (hereinafter referred to as “Robot”) that they own or have developed (hereinafter "the User who plays the game by using Robot" is referred to as “Robot Player”): for the purpose of research, education, and/or development of Robot (including for-profit development, but development for inappropriate purposes is naturally excluded).</li>
+    </ol>
+  </li>
   <li>Users shall use the Service by controlling and/or operating PCs, tablets, smartphones, applications, etc., that have the environment that the Secretariat recommends (hereinafter “environment that the Secretariat recommends” is referred to as “Recommended Environment”). In the case where Users use the Service under environment other than the Recommended Environment, the Secretariat assumes no liability for any damage which arises from their improper use of the Service.</li>
   <li>Users shall acknowledge and agree that packet communication fees, etc. may accrue to use the Service. In addition, Users shall pay all of the packet communication fees, etc.</li>
   <li>When Users send messages or register profile images, etc. through the Service, they shall assume all responsibility for the content that they have posted.</li>
@@ -43,39 +47,51 @@ These Terms shall apply to any relationship between the person who uses the Serv
 ## Chapter 2. Prohibition
 ### Article 4. (Prohibition)
 <ol class="article">
-  <li>Users must not do any action of the following in using the Service:<ol class="paragraph">
-    <li>To make a Robot play the game with the avatar that is registered as Human Player;</li>
-    <li>To do acts that violate section 8-5 with an avatar registered as a Robot Player;</li>
-    <li>To illegally access the server that the Secretariat uses for providing the Service, or to intentionally send or receive a vast amount of data for the purpose of burdening the server;</li>
-    <li>To do acts that cause trouble or damage to the Secretariat, other Users, or third parties, such as cracking, etc.;</li>
-    <li>To infringe copyright, trademark right or other rights (including intellectual property rights) of the Secretariat;</li>
-    <li>To slander or discriminate the Secretariat, other Users, or third parties;</li>
-    <li>To injure or harm the reputation or credit of the Secretariat, other Users, or third parties;</li>
-    <li>To do acts that may promote criminal or illegal behavior;</li>
-    <li>To violate the laws of Japan or to commit offenses against public order and morals;</li>
-    <li>To make a third party use the Service, or to transfer their rights relevant to the Service to a third party;</li>
-    <li>To use the Service beyond the scope of purpose stated in section 2-4;</li>
-    <li>To do any act that the Secretariat judges unsuitable.</li></ol></li>
-  <li>When Users send messages through the Service or set their profile images, they must not send messages or set images that fall under the following (hereinafter referred to as “prohibited messages, etc.”). In the case where the Secretariat finds prohibited messages, etc., the Secretariat is able to delete all or part of the prohibited messages, etc. without any notice to the Users who have sent the prohibited messages, etc.<ol class="paragraph">
-    <li>Messages, etc. that contain expressions that may fall under the previous section (except the case where they make false remarks about a) and b) of the previous section);</li>
-    <li>Messages, etc. that contain sexual description and violent expression, etc. (except specific expressions required for game progress);</li>
-    <li>Messages, etc. that the public may feel uncomfortable with;</li>
-    <li>Messages, etc. that exceed the file size or are not a designated file format that the Secretariat specifies;</li>
-    <li>Messages, etc. that contain personal information and any other information capable of  identifying the Users individual (including false information);</li>
-    <li>Messages, etc. that contain malware or other illegal programs;</li>
-    <li>Messages, etc. that deviate from the purpose of the Service;</li>
-    <li>Messages, etc. that contain links to other external websites.</li></ol></li>
+  <li>
+    Users must not do any action of the following in using the Service:
+    <ol class="paragraph">
+      <li>To make a Robot play the game with the avatar that is registered as Human Player;</li>
+      <li>To do acts that violate section 8-5 with an avatar registered as a Robot Player;</li>
+      <li>To illegally access the server that the Secretariat uses for providing the Service, or to intentionally send or receive a vast amount of data for the purpose of burdening the server;</li>
+      <li>To do acts that cause trouble or damage to the Secretariat, other Users, or third parties, such as cracking, etc.;</li>
+      <li>To infringe copyright, trademark right or other rights (including intellectual property rights) of the Secretariat;</li>
+      <li>To slander or discriminate the Secretariat, other Users, or third parties;</li>
+      <li>To injure or harm the reputation or credit of the Secretariat, other Users, or third parties;</li>
+      <li>To do acts that may promote criminal or illegal behavior;</li>
+      <li>To violate the laws of Japan or to commit offenses against public order and morals;</li>
+      <li>To make a third party use the Service, or to transfer their rights relevant to the Service to a third party;</li>
+      <li>To use the Service beyond the scope of purpose stated in section 2-4;</li>
+      <li>To do any act that the Secretariat judges unsuitable.</li>
+    </ol>
+  </li>
+  <li>
+    When Users send messages through the Service or set their profile images, they must not send messages or set images that fall under the following (hereinafter referred to as “prohibited messages, etc.”). In the case where the Secretariat finds prohibited messages, etc., the Secretariat is able to delete all or part of the prohibited messages, etc. without any notice to the Users who have sent the prohibited messages, etc.
+    <ol class="paragraph">
+      <li>Messages, etc. that contain expressions that may fall under the previous section (except the case where they make false remarks about a) and b) of the previous section);</li>
+      <li>Messages, etc. that contain sexual description and violent expression, etc. (except specific expressions required for game progress);</li>
+      <li>Messages, etc. that the public may feel uncomfortable with;</li>
+      <li>Messages, etc. that exceed the file size or are not a designated file format that the Secretariat specifies;</li>
+      <li>Messages, etc. that contain personal information and any other information capable of  identifying the Users individual (including false information);</li>
+      <li>Messages, etc. that contain malware or other illegal programs;</li>
+      <li>Messages, etc. that deviate from the purpose of the Service;</li>
+      <li>Messages, etc. that contain links to other external websites.</li>
+    </ol>
+  </li>
 </ol>
 
 ## Chapter 3. Account
 ### Article 5. (Account)
 <ol class="article">
   <li>Users who hope to use the Service shall register their accounts according to the methods specified by the Secretariat.</li>
-  <li>The Secretariat is able to reject the account registrations of Users who fall under the following circumstances.:<ol class="paragraph">
-    <li>In the case where they are a minor, and where the fact that they applied to register their account without parental approval is revealed;</li>
-    <li>In the case where they have been penalized by the Secretariat before;</li>
-    <li>In the case where the fact that they either belong to, relate to, or have provided funding to antisocial organizations (such as gang group, crime organization, etc.) is revealed;</li>
-    <li>In the case where the Secretariat judges them to be unsuitable as Users.</li></ol></li>
+  <li>
+    The Secretariat is able to reject the account registrations of Users who fall under the following circumstances.:
+    <ol class="paragraph">
+      <li>In the case where they are a minor, and where the fact that they applied to register their account without parental approval is revealed;</li>
+      <li>In the case where they have been penalized by the Secretariat before;</li>
+      <li>In the case where the fact that they either belong to, relate to, or have provided funding to antisocial organizations (such as gang group, crime organization, etc.) is revealed;</li>
+      <li>In the case where the Secretariat judges them to be unsuitable as Users.</li>
+    </ol>
+  </li>
   <li>Users shall carefully manage their login ID and password for using the Service (hereinafter, "login ID and password for logging into the Service" are referred to as "Login Credentials").</li>
   <li>In the case where the Login Credentials entered while using the Service coincide with the Login Credentials previously registered, the Secretariat deems such use to be by the Users who maintain the accounts.</li>
   <li>Users shall pay all damages, costs and expenses caused by inaccurate maintaining of, error or omission in using their Login Credentials.</li>
@@ -86,12 +102,16 @@ These Terms shall apply to any relationship between the person who uses the Serv
 
 ### Article 6. (Penalties)
 <ol class="article">
-  <li>In the case where Users fall under the following, the Secretariat is able to restrict their access to the Service, suspend their accounts, and/or forcibly delete their accounts without any notice.<ol class="paragraph">
-    <li>When they do any acts in contravention of Article 4;</li>
-    <li>When the Secretariat judges that they merit penalty because of frequent complaints about them from other Users;</li>
-    <li>When they intentionally violate these Terms and Guidelines, or when they do malicious violations;</li>
-    <li>When they disobey any instructions related to important things about usage of the Services by the Secretariat;</li>
-    <li>When the Secretariat deems them to be unsuitable as Users.</li></ol></li>
+  <li>
+    In the case where Users fall under the following, the Secretariat is able to restrict their access to the Service, suspend their accounts, and/or forcibly delete their accounts without any notice.
+    <ol class="paragraph">
+      <li>When they do any acts in contravention of Article 4;</li>
+      <li>When the Secretariat judges that they merit penalty because of frequent complaints about them from other Users;</li>
+      <li>When they intentionally violate these Terms and Guidelines, or when they do malicious violations;</li>
+      <li>When they disobey any instructions related to important things about usage of the Services by the Secretariat;</li>
+      <li>When the Secretariat deems them to be unsuitable as Users.</li>
+    </ol>
+  </li>
   <li>In the case where the Secretariat penalizes Users based upon the previous section, the Secretariat assumes no liability related to the penalizing of the Users.</li>
 </ol>
 
@@ -108,22 +128,30 @@ These Terms shall apply to any relationship between the person who uses the Serv
   <li>Users who have registered avatars as Robot Players shall give version information appropriately to their robots according to the “versioning guidelines” the Secretariat separately specifies.</li>
   <li>When Users register avatars as Robot Players, the secretariat issues an access token for each avatar. Users shall add the issued access token to the robot that they will register, and use the robot with the avatar related to the access token.</li>
   <li>When Users who have registered avatars as Robot Players change or update their robots, they shall register new avatars through the procedures from section 8-1 to 8-3 separately, and shall use the changed or updated robots at the new avatars. In addition, when Users update registered robots, they shall delete the access tokens that have already attached to the robots.</li>
-  <li>Users who have registered avatars as Robot Players must not do any acts of the following:<ol class="paragraph">
-    <li>To make false declarations about section 8-1 and 8-2, or to play with robots or operating methods different from those that they declared;</li>
-    <li>To attach issued access tokens to robots different from those that they used for registration;</li>
-    <li>To make robots perform actions that fall under the prohibited items of Article 4;</li>
-    <li>To use the Service to develop robots for inappropriate purposes.</li></ol></li>
+  <li>
+    Users who have registered avatars as Robot Players must not do any acts of the following:
+    <ol class="paragraph">
+      <li>To make false declarations about section 8-1 and 8-2, or to play with robots or operating methods different from those that they declared;</li>
+      <li>To attach issued access tokens to robots different from those that they used for registration;</li>
+      <li>To make robots perform actions that fall under the prohibited items of Article 4;</li>
+      <li>To use the Service to develop robots for inappropriate purposes.</li>
+    </ol>
+  </li>
 </ol>
 
 ### Article 9. (Exclusion of Liability)
 <ol class="article">
-  <li>The Service shall be offered on an as-is basis. The Secretariat does not give any guarantee to Users about anything of the following:<ol class="paragraph">
-    <li>The Service meets Users’ requirements and utilization purpose;</li>
-    <li>Contents of the Service are correct and trustable;</li>
-    <li>Connection via the Service will not be interrupted for any reason;</li>
-    <li>Information sent or received through the Service is either stored in predetermined devices, normally sent and received, or displayed on the screen correctly;</li>
-    <li>The Service operates normally with all computers, smartphones, browsers, etc.;</li>
-    <li>All information relevant to the Service is displayed correctly on all computers, smartphones, browsers, etc.;</li></ol></li>
+  <li>
+    The Service shall be offered on an as-is basis. The Secretariat does not give any guarantee to Users about anything of the following:
+    <ol class="paragraph">
+      <li>The Service meets Users’ requirements and utilization purpose;</li>
+      <li>Contents of the Service are correct and trustable;</li>
+      <li>Connection via the Service will not be interrupted for any reason;</li>
+      <li>Information sent or received through the Service is either stored in predetermined devices, normally sent and received, or displayed on the screen correctly;</li>
+      <li>The Service operates normally with all computers, smartphones, browsers, etc.;</li>
+      <li>All information relevant to the Service is displayed correctly on all computers, smartphones, browsers, etc.;</li>
+    </ol>
+  </li>
 </ol>
 
 ### Article 10. (Copyright, Intellectual Property Right)
@@ -135,32 +163,44 @@ These Terms shall apply to any relationship between the person who uses the Serv
 ### Article 11. (Utilization of Messages Sent / Received by Users and Statistical Data)
 <ol class="article">
   <li>Among the contents of the Service, the copyright of the contents posted by Users, such as messages sent by them and their profile images (hereinafter referred to as “User Posted Contents”) belongs to the Users who sent or posted.</li>
-  <li>The Secretariat is able to freely use User Posted Contents that Users have posted regardless of purpose and method. However, information related to the Users' privacy and all other information capable of identifying the Users individual (hereinafter referred to as "Privacy Information") shall be excluded from User Posted Contents used by Secretariat.
-Users shall license the Secretariat the non-exclusive right to use their User Posted Contents for free and indefinite time in Japan and overseas. In addition, the right includes reproduction, screening, public transmission, exhibition, distribution, transfer, lending, translation, adaptation, publication, and usage for academic, research, development, or educational use.
-The purpose for use of User Posted Contents by the Secretariat is mainly as follows, but not limited to:<ol class="paragraph">
-    <li>For posting on the Service;</li>
-    <li>For creating records and statistical data about game results and progress, and messages sent by Users during that time, etc.;</li>
-    <li>For creating secondary works (but limited to the case that Privacy Information is excluded).</li></ol></li>
+  <li>
+    The Secretariat is able to freely use User Posted Contents that Users have posted regardless of purpose and method. However, information related to the Users' privacy and all other information capable of identifying the Users individual (hereinafter referred to as "Privacy Information") shall be excluded from User Posted Contents used by Secretariat.
+    Users shall license the Secretariat the non-exclusive right to use their User Posted Contents for free and indefinite time in Japan and overseas. In addition, the right includes reproduction, screening, public transmission, exhibition, distribution, transfer, lending, translation, adaptation, publication, and usage for academic, research, development, or educational use.
+    The purpose for use of User Posted Contents by the Secretariat is mainly as follows, but not limited to:
+    <ol class="paragraph">
+      <li>For posting on the Service;</li>
+      <li>For creating records and statistical data about game results and progress, and messages sent by Users during that time, etc.;</li>
+      <li>For creating secondary works (but limited to the case that Privacy Information is excluded).</li>
+    </ol>
+  </li>
   <li>In the case where the Secretariat secondary-uses User Posted Contents, Users shall not execute the moral right of author about their User Posted Contents.</li>
   <li>When Users submit their User Posted Contents via the Service, the Secretariat deems that they have already acknowledged and agreed with the provisions of section 11-2 and 11-3.</li>
-  <li>The Secretariat is able to freely use the recorded data and statistical data created in section 11-1 (b) only both 1) in a format capable of easily referring to the Users' privacy information and 2) for the following purposes. This usage of the recorded data and statistical data include sub-licensing to any third party for profit.
-However, even in this case, User Posted Contents shall be used only as part of the remarks made in the course of progress, and not used by themselves:<ol>
-    <li>For research, exploration, analysis, education, etc.;</li>
-    <li>For support of development of programs, etc.;</li>
-    <li>For development of service, and for improvement of quality of service, etc.;</li>
-    <li>For marketing, advertising, publicity, public relations, PR activities, branding, etc. of services, etc.;</li></ol></li>
-  <li>The third party in the previous section includes the following persons, but not limited to:<ol class="paragraph">
-    <li>Research and educational institutions including National Institute of Informatics, Yokohama National University, Shizuoka University, Carnegie Mellon University;</li>
-    <li>Researchers and educators in information engineering, computer science and other academic fields;</li>
-    <li>Business operators and programmers who develop programs and artificial intelligence;</li>
-    <li>Cloud storage providers;</li>
-    <li>Marketing partners, providers of marketing platform, etc.;</li>
-    <li>Advertising agencies, PR companies, etc.;</li>
-    <li>Branding design companies, etc.;</li>
-    <li>Business operators that analyze data, etc.;</li>
-    <li>Graphic designers, video production companies, etc.;</li>
-    <li>Translator, translation companies, etc.;</li>
-    <li>Lawyers, accountants, consultants, etc.</li></ol></li>
+  <li>
+    The Secretariat is able to freely use the recorded data and statistical data created in section 11-1 (b) only both 1) in a format capable of easily referring to the Users' privacy information and 2) for the following purposes. This usage of the recorded data and statistical data include sub-licensing to any third party for profit.
+    However, even in this case, User Posted Contents shall be used only as part of the remarks made in the course of progress, and not used by themselves:
+    <ol>
+      <li>For research, exploration, analysis, education, etc.;</li>
+      <li>For support of development of programs, etc.;</li>
+      <li>For development of service, and for improvement of quality of service, etc.;</li>
+      <li>For marketing, advertising, publicity, public relations, PR activities, branding, etc. of services, etc.;</li>
+    </ol>
+  </li>
+  <li>
+    The third party in the previous section includes the following persons, but not limited to:
+    <ol class="paragraph">
+      <li>Research and educational institutions including National Institute of Informatics, Yokohama National University, Shizuoka University, Carnegie Mellon University;</li>
+      <li>Researchers and educators in information engineering, computer science and other academic fields;</li>
+      <li>Business operators and programmers who develop programs and artificial intelligence;</li>
+      <li>Cloud storage providers;</li>
+      <li>Marketing partners, providers of marketing platform, etc.;</li>
+      <li>Advertising agencies, PR companies, etc.;</li>
+      <li>Branding design companies, etc.;</li>
+      <li>Business operators that analyze data, etc.;</li>
+      <li>Graphic designers, video production companies, etc.;</li>
+      <li>Translator, translation companies, etc.;</li>
+      <li>Lawyers, accountants, consultants, etc.</li>
+    </ol>
+  </li>
 </ol>
 
 ### Article 12. (Methods of Notice)
