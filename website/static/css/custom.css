@@ -11,6 +11,17 @@ figcaption {
   text-align: center;
 }
 
+ol.article {
+  counter-increment: article;
+  counter-reset: item;
+  list-style-type: none;
+}
+
+ol.article > li::before {
+  counter-increment: item;
+  content: counter(article) "." counter(item) " ";
+}
+
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
 

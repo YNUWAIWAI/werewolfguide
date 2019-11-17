@@ -10,13 +10,15 @@ These Terms shall apply to any relationship between the person who uses the Serv
 
 ## Chapter 1. General Rules
 ### Article 1. (Agreement to These Terms, Range of Application)
-1. Users shall acknowledge and agree with all articles of These Terms at the time of using the Service. Also, Users shall comply with These Terms.
-1. Any guidelines, cautions, terms, FAQ, important notices sent by Email, policies, etc. (including Privacy Policy, and hereinafter referred to as “Guidelines”) that the Secretariat provides for the Service should complement and constitute a part of These Terms.
-1. If Users are minors, they shall use the Service with consent from their parents or legal representative (hereinafter referred to as “parents, etc.”). When the Users who are minors have begun to use the Service, the Secretariat deems that they have already obtained consent from their parents, etc.
-1. “Time”, which is both used in These Terms and Guidelines and used for providing the Service, is based upon “AOE (UTC-12)”.
+<ol class="article">
+  <li>Users shall acknowledge and agree with all articles of These Terms at the time of using the Service. Also, Users shall comply with These Terms.</li>
+  <li>Any guidelines, cautions, terms, FAQ, important notices sent by Email, policies, etc. (including Privacy Policy, and hereinafter referred to as “Guidelines”) that the Secretariat provides for the Service should complement and constitute a part of These Terms.</li>
+  <li>If Users are minors, they shall use the Service with consent from their parents or legal representative (hereinafter referred to as “parents, etc.”). When the Users who are minors have begun to use the Service, the Secretariat deems that they have already obtained consent from their parents, etc.</li>
+  <li>“Time”, which is both used in These Terms and Guidelines and used for providing the Service, is based upon “AOE (UTC-12)”.</li>
+</ol>
 
 ### Article 2. (Conditions of Use the Service)
-<ol>
+<ol class="article">
   <li>When Users use the Service, they shall register an account with the Service and use the account.</li>
   <li>Users shall take self-responsibility for their actions related to using the Service.</li>
   <li>Users are able to use the Service for either or both of the following purposes:<ol>
@@ -30,15 +32,17 @@ These Terms shall apply to any relationship between the person who uses the Serv
  </ol>
 
 ### Article 3. (Registration, Deletion, etc. of Avatar)
-1. When Users complete account registration (defined in Article 5) to the Service, the Secretariat gives them an avatar registered as a Human Player.
-1. When Users play the game of the Service, they are able to additionally register multiple avatars.
-1. Regarding the additional registered avatars, Users shall choose whether to play as a Human Player or to make a Robot play the game as a Robot Player.
-1. Users are able to delete some or all of their avatars freely.
-1. Additional registration and deletion of avatars shall be made according to the methods specified by the Secretariat.
+<ol class="article">
+  <li>When Users complete account registration (defined in Article 5) to the Service, the Secretariat gives them an avatar registered as a Human Player.</li>
+  <li>When Users play the game of the Service, they are able to additionally register multiple avatars.</li>
+  <li>Regarding the additional registered avatars, Users shall choose whether to play as a Human Player or to make a Robot play the game as a Robot Player.</li>
+  <li>Users are able to delete some or all of their avatars freely.</li>
+  <li>Additional registration and deletion of avatars shall be made according to the methods specified by the Secretariat.</li>
+</ol>
 
 ## Chapter 2. Prohibition
 ### Article 4. (Prohibition)
-<ol>
+<ol class="article">
   <li>Users must not do any action of the following in using the Service:<ol>
     <li type="a">To make a Robot play the game with the avatar that is registered as Human Player;</li>
     <li type="a">To do acts that violate section 8-5 with an avatar registered as a Robot Player;</li>
@@ -65,7 +69,7 @@ These Terms shall apply to any relationship between the person who uses the Serv
 
 ## Chapter 3. Account
 ### Article 5. (Account)
-<ol>
+<ol class="article">
   <li>Users who hope to use the Service shall register their accounts according to the methods specified by the Secretariat.</li>
   <li>The Secretariat is able to reject the account registrations of Users who fall under the following circumstances.:<ol>
     <li type="a">In the case where they are a minor, and where the fact that they applied to register their account without parental approval is revealed;</li>
@@ -81,7 +85,7 @@ These Terms shall apply to any relationship between the person who uses the Serv
 </ol>
 
 ### Article 6. (Penalties)
-<ol>
+<ol class="article">
   <li>In the case where Users fall under the following, the Secretariat is able to restrict their access to the Service, suspend their accounts, and/or forcibly delete their accounts without any notice.<ol>
     <li type="a">When they do any acts in contravention of Article 4;</li>
     <li type="a">When the Secretariat judges that they merit penalty because of frequent complaints about them from other Users;</li>
@@ -92,12 +96,14 @@ These Terms shall apply to any relationship between the person who uses the Serv
 </ol>
 
 ### Article 7. (Measures at the Time of Deletion of Accounts)
-1. When Users’ accounts are deleted for any reason, they shall lose all the rights to use the Service at the time of completion of deletion of their accounts.
-1. When Users’ accounts are deleted for any reason, the Secretariat is able to delete all or part of information and data both related to the Users and stored on cloud of the Service at the time of deletion of their accounts. In addition, all avatars registered by the Users also will be deleted with the deletion of their accounts.
+<ol class="article">
+  <li>When Users’ accounts are deleted for any reason, they shall lose all the rights to use the Service at the time of completion of deletion of their accounts.</li>
+  <li>When Users’ accounts are deleted for any reason, the Secretariat is able to delete all or part of information and data both related to the Users and stored on cloud of the Service at the time of deletion of their accounts. In addition, all avatars registered by the Users also will be deleted with the deletion of their accounts.</li>
+</ol>
 
 ## Chapter 4. Miscellaneous Provisions
 ### Article 8. (Special Contract for Robot Players)
-<ol>
+<ol class="article">
   <li>When Users register an avatar as a Robot Player, they shall provide accurate information about whether the robot used with the avatar is fully automatic or semiautomatic (whether it requires user operation or not).</li>
   <li>Users who have registered avatars as Robot Players shall give version information appropriately to their robots according to the “versioning guidelines” the Secretariat separately specifies.</li>
   <li>When Users register avatars as Robot Players, the secretariat issues an access token for each avatar. Users shall add the issued access token to the robot that they will register, and use the robot with the avatar related to the access token.</li>
@@ -110,7 +116,7 @@ These Terms shall apply to any relationship between the person who uses the Serv
 </ol>
 
 ### Article 9. (Exclusion of Liability)
-<ol>
+<ol class="article">
   <li>The Service shall be offered on an as-is basis. The Secretariat does not give any guarantee to Users about anything of the following:<ol>
     <li type="a">The Service meets Users’ requirements and utilization purpose;</li>
     <li type="a">Contents of the Service are correct and trustable;</li>
@@ -121,11 +127,13 @@ These Terms shall apply to any relationship between the person who uses the Serv
 </ol>
 
 ### Article 10. (Copyright, Intellectual Property Right)
-1. Copyright, trademark right, and other intellectual property right that relates to the Service (except the “User Posted Contents” stated in Article 11) shall belong to the Secretariat or other right holder of the intellectual property right.
-1. Only when Users use the Service within the scope of purpose stated in section 2-4, the Secretariat licenses them to use it.
+<ol class="article">
+  <li>Copyright, trademark right, and other intellectual property right that relates to the Service (except the “User Posted Contents” stated in Article 11) shall belong to the Secretariat or other right holder of the intellectual property right.</li>
+  <li>Only when Users use the Service within the scope of purpose stated in section 2-4, the Secretariat licenses them to use it.</li>
+</ol>
 
 ### Article 11. (Utilization of Messages Sent / Received by Users and Statistical Data)
-<ol>
+<ol class="article">
   <li>Among the contents of the Service, the copyright of the contents posted by Users, such as messages sent by them and their profile images (hereinafter referred to as “User Posted Contents”) belongs to the Users who sent or posted.</li>
   <li>The Secretariat is able to freely use User Posted Contents that Users have posted regardless of purpose and method. However, information related to the Users' privacy and all other information capable of identifying the Users individual (hereinafter referred to as "Privacy Information") shall be excluded from User Posted Contents used by Secretariat.
 Users shall license the Secretariat the non-exclusive right to use their User Posted Contents for free and indefinite time in Japan and overseas. In addition, the right includes reproduction, screening, public transmission, exhibition, distribution, transfer, lending, translation, adaptation, publication, and usage for academic, research, development, or educational use.
@@ -156,32 +164,44 @@ However, even in this case, User Posted Contents shall be used only as part of t
 </ol>
 
 ### Article 12. (Methods of Notice)
-1. Method of notification from the Secretariat to Users shall be by displaying on page of "Notification", by sending e-mails, or by any other method that the Secretariat considers as being adequate.
-1. Notices displayed on "Notification" page shall be considered concluded at the time of completion of displaying on "Notification" page.
-1. Notices sent by e-mail shall be considered concluded at the time of completion of sending the e-mail to the address specified as Login Credentials by Users.
-1. In the case where Users change the settings of programs related to the e-mail address that they specified to block spam mails, they shall change the setting to permit reception of e-mails from the Secretariat.
-1. Unless otherwise claimed, the Secretariat shall deem that the Users have agreed to the notice without any dissent on the day it was made.
+<ol class="article">
+  <li>Method of notification from the Secretariat to Users shall be by displaying on page of "Notification", by sending e-mails, or by any other method that the Secretariat considers as being adequate.</li>
+  <li>Notices displayed on "Notification" page shall be considered concluded at the time of completion of displaying on "Notification" page.</li>
+  <li>Notices sent by e-mail shall be considered concluded at the time of completion of sending the e-mail to the address specified as Login Credentials by Users.</li>
+  <li>In the case where Users change the settings of programs related to the e-mail address that they specified to block spam mails, they shall change the setting to permit reception of e-mails from the Secretariat.</li>
+  <li>Unless otherwise claimed, the Secretariat shall deem that the Users have agreed to the notice without any dissent on the day it was made.</li>
+</ol>
 
 ### Article 13. (Treatment of Privacy Information)
-1. In providing the Service, the Secretariat collects information and data such as IP addresses, access logs, and cookies from Users. These information and data do not include any information capable of identifying the Users individual.
-1. The Secretariat appropriately handles Privacy Information provided from Users when they make inquiries or complaints, and the email address that they have specified as their Login Credentials in accordance with the privacy policy of the Secretariat.
+<ol class="article">
+  <li>In providing the Service, the Secretariat collects information and data such as IP addresses, access logs, and cookies from Users. These information and data do not include any information capable of identifying the Users individual.</li>
+  <li>The Secretariat appropriately handles Privacy Information provided from Users when they make inquiries or complaints, and the email address that they have specified as their Login Credentials in accordance with the privacy policy of the Secretariat.</li>
+<ol>
 
 ### Article 14. (Indemnification for Damage)
-1. In the case either where Users delay or fail to perform obligations of These Terms, or where they disobey instructions from the Secretariat, or where they violate any provisions of These Terms, they shall be held responsible for all damages, costs, and expenses caused by their breach of obligation, etc.
-1. Even when Users suffer damage by using the Service, the Secretariat does not provide any compensation or guarantee for the damage, etc.
+<ol class="article">
+  <li>In the case either where Users delay or fail to perform obligations of These Terms, or where they disobey instructions from the Secretariat, or where they violate any provisions of These Terms, they shall be held responsible for all damages, costs, and expenses caused by their breach of obligation, etc.</li>
+  <li>Even when Users suffer damage by using the Service, the Secretariat does not provide any compensation or guarantee for the damage, etc.</li>
+</ol>
 
 ### Article 15. (Interruption/Termination of the Service)
-1. The Secretariat may temporarily suspend, change, terminate, etc., part or all of the Service at its discretion. In addition, the Service may be interrupted due to the occurrence of force majeure such as natural disasters.
-1. The Secretariat accepts no liability for any damage of Users arising directly or indirectly from the temporary interruption or the termination of the Service.
+<ol class="article">
+  <li>The Secretariat may temporarily suspend, change, terminate, etc., part or all of the Service at its discretion. In addition, the Service may be interrupted due to the occurrence of force majeure such as natural disasters.</li>
+  <li>The Secretariat accepts no liability for any damage of Users arising directly or indirectly from the temporary interruption or the termination of the Service.</li>
+<ol>
 
 ### Article 16. (Jurisdiction/Governing Law)
-1. These Terms and Guidelines, etc. are governed by and construed in accordance with the Laws and regulations of Japan.
-1. In the event of a dispute, etc. relating to these Terms and Guidelines, etc., the Yokohama District Court shall be the exclusive jurisdiction court of the first instance.
-1. Translations of the Japanese version of These Terms shall be provided for Users’ convenience only. If difference or contradiction between the translation versions and the Japanese version exists, the Japanese version of These Terms shall prevail.
+<ol class="article">
+  <li>These Terms and Guidelines, etc. are governed by and construed in accordance with the Laws and regulations of Japan.</li>
+  <li>In the event of a dispute, etc. relating to these Terms and Guidelines, etc., the Yokohama District Court shall be the exclusive jurisdiction court of the first instance.</li>
+  <li>Translations of the Japanese version of These Terms shall be provided for Users’ convenience only. If difference or contradiction between the translation versions and the Japanese version exists, the Japanese version of These Terms shall prevail.</li>
+</ol>
 
 ### Article 17. (Amendment of These Terms)
-1. The Secretariat is able to amend These Terms without any prior notice toward Users.
-1. In the case where the Secretariat amends These Terms, the Secretariat is able to conclude at the time of completion of uploading and displaying on the “Terms of Use” page of the Service.
-1. Users should check These Terms every time they use the Service. In the case where Users use the Service after any amendment of These Terms, the Secretariat shall deem that Users have checked the updated version of These Terms, and that they acknowledge and agree to the amendment of These Terms.
+<ol class="article">
+  <li>The Secretariat is able to amend These Terms without any prior notice toward Users.</li>
+  <li>In the case where the Secretariat amends These Terms, the Secretariat is able to conclude at the time of completion of uploading and displaying on the “Terms of Use” page of the Service.</li>
+  <li>Users should check These Terms every time they use the Service. In the case where Users use the Service after any amendment of These Terms, the Secretariat shall deem that Users have checked the updated version of These Terms, and that they acknowledge and agree to the amendment of These Terms.</li>
+</ol>
 
 Establishment Date: June 1st, 2019
