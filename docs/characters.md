@@ -1,11 +1,11 @@
 ---
-id: agents
-title: Agents
-sidebar_label: Agents
+id: characters
+title: Characters
+sidebar_label: Characters
 ---
-[Table 1](#table-1-agents) shows the agents.
+[Table 1](#table-1-characters) shows the characters.
 
-## Table 1 "Agents"
+## Table 1 "Characters"
 
 |FIRST NAME|(MIDDLE NAME +) SURNAME|
 |:--------:|:---------------------:|
