@@ -4,11 +4,13 @@ const {COPYFILE_EXCL} = fs.constants
 const path = require('path')
 const languages = require('../website/languages').filter(locale => locale.enabled && locale.tag !== 'en')
 const {projectName} = require('../website/siteConfig')
-const distDir = path.join(__dirname, 'website', 'build', projectName, 'img')
+const distDir = path.join(__dirname, '..', 'website', 'build', projectName, 'img')
 const srcDir = path.join(distDir, 'en')
 
-;(async () => {
-  const srcFiles = await fsPromises.readdir(srcDir)
+fs.readdir(srcDir, (err, srcFiles) => {
+  if (err) {
+    throw err
+  }
 
   languages.forEach(async language => {
     const localeDir = path.join(distDir, language.tag)
@@ -25,4 +27,4 @@ const srcDir = path.join(distDir, 'en')
       ).catch(reason => console.log(reason.message))
     })
   })
-})()
+})
