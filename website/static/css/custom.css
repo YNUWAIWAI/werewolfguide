@@ -26,6 +26,24 @@ ol.paragraph {
   list-style-type: lower-alpha;
 }
 
+.table-roles td,
+.table-roles th {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.table-roles--role {
+  width: 20%;
+}
+
+.table-roles--description {
+  width: 60%;
+}
+
+.table-roles--num-of-players {
+  width: 20%;
+}
+
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
 
