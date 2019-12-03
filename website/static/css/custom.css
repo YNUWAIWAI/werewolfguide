@@ -44,6 +44,15 @@ ol.paragraph {
   width: 20%;
 }
 
+.table-village-composition th {
+  font-size: 10px;
+}
+.table-village-composition td,
+.table-village-composition th {
+  text-align: center;
+  vertical-align: middle;
+}
+
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
 
