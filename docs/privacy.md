@@ -107,11 +107,11 @@ About Google Privacy Policy, see below.<br>
  <li>The Secretariat appoints the following person to be Chief Administrator of Personal Information, and tries to manage Personal Information appropriately and to improve enforcement of policies related to protection of Personal Information continuously. In addition, the following person should be the contact both for inquiry or advisement about Personal Information and for the requests of Article 7 at the Secretariat.</li>
 </ol>
 
-Operator of the Service: Executive Secretariat of LiCOS: A Game of Werewolves  
-Desk for Inquiry: Personal Information Desk  
-E-Mail Address: info@dummy.com  
-Method of the claim for disclosure, etc.: Only by email  
-(Claim by Inquiries etc. other than Japanese may take time until replying.)  
+| Operator of the Service: | Executive Secretariat of LiCOS: A Game of Werewolves  |
+| Desk for Inquiry: | Personal Information Desk |
+| E-Mail Address: | info@dummy.com |
+| Method of the claim for disclosure, etc.: | Only by email  (Claim by Inquiries etc. other than Japanese may take time until replying.) |
+| ---- | ---- |
 
 Establishment Date: June 1st, 2019 
 
