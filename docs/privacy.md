@@ -83,7 +83,7 @@ In addition, if Users who requested the deletion of Privacy Information have not
  <li>The Secretariat collects Users’ Privacy Information by using analytical tool such as Google Analytics, etc. In addition, part of advertisements displayed on Website related to the Service use behavioral targeting advertising system that third party provides and that uses cookies.
 When the Secretariat provides the Service by using any of services that Google, Inc. (hereinafter referred to as “Google”) provides such as Analytics, AdSense, etc., Google Privacy Policy shall be applied to the services that Google provides.
 About Google Privacy Policy, see below.<br>
-https://policies.google.com/privacy?hl=en</li>
+  <a target="_blank" href="https://policies.google.com/privacy?hl=en">https://policies.google.com/privacy?hl=en</a></li>
  <li>Users may refuse collection of their Privacy Information by the Secretariat or to hide or remove the behavioral targeting advertising either 1) by disabling cookies in their browser, or 2) by opting out via the webpage which is associated with the analytical tool or the behavioral targeting advertising.</li>
  <li>Users shall take self-responsibility for the change of setting, etc. of previous section, and the Secretariat assumes no liability and responsibility for all damages arising from their changes of  the setting, etc.: such as occurrence of disappearance of all or part of information about the Service.</li>
 </ol>
