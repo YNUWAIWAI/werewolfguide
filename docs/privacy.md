@@ -111,7 +111,7 @@ About Google Privacy Policy, see below.<br>
  <tr><td>Operator of the Service:</td><td>Executive Secretariat of LiCOS: A Game of Werewolves</td></tr>
  <tr><td>Desk for Inquiry:</td><td>Personal Information Desk</td></tr>
  <tr><td>E-Mail Address:</td><td>info@dummy.com</td></tr>
- <tr><td>Method of the claim for disclosure, etc.:</td><td>Only by email (Claim by Inquiries etc. other than Japanese may take time until replying.)</td></tr>
+ <tr><td>Method of the claim for disclosure, etc.:</td><td>Only by email<br>(Claim by Inquiries etc. other than Japanese may take time until replying.)</td></tr>
 </table>
 
 <p>Establishment Date: June 1st, 2019</p>
