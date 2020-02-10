@@ -9,7 +9,7 @@ This is a party game of deception that consists of alternating rounds of “morn
 
 ### All players
 
-Players know their own names (See [Table 1 “agents”](agents#table-1-agents)), identities (See [Table 2 “roles”](roles#table-2-roles)) and teams (See [Table 3 “teams”](teams#table-3-teams)), for example one player is named Adil, he is a werewolf and is a member of Team Werewolves. Players know the composition of the village, for example they know there is 1 werewolf, 1 seer and 3 villagers. Players gather in the village and discuss who to put to death.
+Players know their own names (See [Table 1 “characters”](characters#table-1-characters)), identities (See [Table 2 “roles”](roles#table-2-roles)) and teams (See [Table 3 “teams”](teams#table-3-teams)), for example one player is named Adil, he is a werewolf and is a member of Team Werewolves. Players know the composition of the village, for example they know there is 1 werewolf, 1 seer and 3 villagers. Players gather in the village and discuss who to put to death.
 
 ### Mason
 
