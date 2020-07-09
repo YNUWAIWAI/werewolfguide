@@ -45,5 +45,5 @@ module.exports = {
   scrollToTop: true,
   tagline: 'The document for LiCOS',
   title: 'LiCOS',
-  url: 'https://licos.online'
+  url: 'https://werewolfguide.netlify.app'
 }
