@@ -29,6 +29,10 @@ module.exports = {
     {
       doc: 'credits',
       label: 'Credits'
+    },
+    {
+      blog: true,
+      label: 'Blog'
     }
   ],
   highlight: {
