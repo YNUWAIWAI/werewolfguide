@@ -31,8 +31,8 @@ module.exports = {
       label: 'Credits'
     },
     {
-      blog: true,
-      label: 'Blog'
+      doc: 'updateNotes',
+      label: 'Update notes'
     }
   ],
   highlight: {
