@@ -13,9 +13,11 @@ fsPromises
   .then(srcFiles => Promise.all(
     srcFiles.map(file => {
       const srcPath = path.join(srcDir, file)
-      const distPath = path.join(distDir, file)
+      const response = require(srcPath)
+      const srcBasename = path.basename(srcPath, '.js')
+      const distPath = path.join(distDir, `${srcBasename}.json`)
 
-      return fsPromises.copyFile(srcPath, distPath)
+      return fsPromises.writeFile(distPath, response)
     })
   ))
   .catch(reason => console.log(reason))
