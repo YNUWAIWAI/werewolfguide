@@ -31,7 +31,7 @@ module.exports = {
       label: 'Credits'
     },
     {
-      doc: 'updateNotes',
+      doc: 'updateNotes/latest',
       label: 'Update notes'
     }
   ],
