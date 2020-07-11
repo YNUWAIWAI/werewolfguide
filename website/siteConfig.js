@@ -1,6 +1,5 @@
 const organizationName = 'YNUWAIWAI'
 const latest = require('../config/latestUpdateNotesVersion.json')
-console.log(latest)
 
 module.exports = {
   baseUrl: '/',
