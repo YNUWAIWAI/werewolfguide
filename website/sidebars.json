@@ -20,5 +20,10 @@
       "terms",
       "faq"
     ]
+  },
+  "updateNotes": {
+    "Update notes": [
+      "updateNotes/v1-0-0"
+    ]
   }
 }

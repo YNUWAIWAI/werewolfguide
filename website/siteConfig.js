@@ -1,4 +1,6 @@
 const organizationName = 'YNUWAIWAI'
+const latest = require('../config/latestUpdateNotesVersion.json')
+console.log(latest)
 
 module.exports = {
   baseUrl: '/',
@@ -31,8 +33,8 @@ module.exports = {
       label: 'Credits'
     },
     {
-      blog: true,
-      label: 'Blog'
+      doc: `updateNotes/${latest}`,
+      label: 'Update notes'
     }
   ],
   highlight: {
