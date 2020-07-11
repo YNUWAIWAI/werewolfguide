@@ -25,10 +25,12 @@ fsPromises.readdir(srcDir)
     const files = srcFiles
       .filter(file => file !== 'latest.md')
       .sort(compare)
-    const latest = files[0]
-    const srcPath = path.join(srcDir, latest)
-    const dirPath = path.join(srcDir, 'latest.md')
+    const latest = path.basename(files[0], '.md')
 
-    return fsPromises.copyFile(srcPath, dirPath)
+    return latest
+  })
+  .then(latest => {
+    distPath = path.join(__dirname, '..', 'config', 'latestUpdateNotesVersion.json')
+    fsPromises.writeFile(distPath, JSON.stringify(latest))
   })
   .catch(reason => console.log(reason))
