@@ -5,7 +5,10 @@ preserve_hierarchy: true
 
 files:
   -
-    source: '/docs/(updateNotes/)?*.md'
+    source: '/docs/**/*.md'
+    ignore: [
+      '/docs/ja/*.md'
+    ]
     translation: '/website/translated_docs/%two_letters_code%/%original_file_name%'
     languages_mapping: &anchor
       locale:
