@@ -1,7 +1,7 @@
 {
   "scripts": {
     "examples": "docusaurus-examples",
-    "start": "yarn copy && build:update-notes && docusaurus-start",
+    "start": "yarn copy && yarn build:update-notes && docusaurus-start",
     "copy": "node ../scripts/copyFiles.js",
     "build": "yarn copy && yarn build:update-notes && docusaurus-build && yarn build:image && yarn build:api",
     "build:api": "node ../scripts/buildApi.js",
