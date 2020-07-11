@@ -1,6 +1,6 @@
 const fs = require('fs')
 const path = require('path')
-const srcFiles = require('./srcFiles')
+const srcFiles = require('../config/srcFiles')
 const srcDir = path.join(__dirname, '..', 'docs', 'ja')
 
 srcFiles.forEach(fileName => {
