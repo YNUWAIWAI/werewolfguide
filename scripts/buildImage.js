@@ -4,25 +4,25 @@ const {COPYFILE_EXCL} = fs.constants
 const path = require('path')
 const languages = require('../website/languages').filter(locale => locale.enabled && locale.tag !== 'en')
 const {projectName} = require('../website/siteConfig')
-const distDir = path.join(__dirname, '..', 'website', 'build', projectName, 'img')
-const srcDir = path.join(distDir, 'en')
+const DEST_DIR = path.join(__dirname, '..', 'website', 'build', projectName, 'img')
+const SRC_DIR = path.join(DEST_DIR, 'en')
 
-fs.readdir(srcDir, (err, srcFiles) => {
+fs.readdir(SRC_DIR, (err, srcFiles) => {
   if (err) {
     throw err
   }
 
   languages.forEach(async language => {
-    const localeDir = path.join(distDir, language.tag)
+    const LOCALE_DIR = path.join(DEST_DIR, language.tag)
     
-    await fsPromises.mkdir(localeDir)
+    await fsPromises.mkdir(LOCALE_DIR)
       .catch(reason => console.log(reason.message))
-    await fsPromises.access(localeDir) 
+    await fsPromises.access(LOCALE_DIR) 
       .catch(reason => console.log(reason.message))
     srcFiles.forEach(file => {
       fsPromises.copyFile(
-        path.join(srcDir, file),
-        path.join(localeDir, file),
+        path.join(SRC_DIR, file),
+        path.join(LOCALE_DIR, file),
         COPYFILE_EXCL
       ).catch(reason => console.log(reason.message))
     })

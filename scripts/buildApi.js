@@ -4,21 +4,21 @@ const fs = require('fs')
 const fsPromises = fs.promises
 const path = require('path')
 const {projectName} = require('../website/siteConfig')
-const distDir = path.join(__dirname, '..', 'website', 'build', projectName, 'api', API_VERSION)
-const srcDir = path.join(__dirname, '..', 'website', 'api', API_VERSION)
+const DEST_DIR = path.join(__dirname, '..', 'website', 'build', projectName, 'api', API_VERSION)
+const SRC_DIR = path.join(__dirname, '..', 'website', 'api', API_VERSION)
 
 fsPromises
-  .mkdir(distDir, {recursive: true})
-  .then(() => fsPromises.readdir(srcDir))
+  .mkdir(DEST_DIR, {recursive: true})
+  .then(() => fsPromises.readdir(SRC_DIR))
   .then(srcFiles => Promise.all(
     srcFiles.map(async file => {
-      const srcPath = path.join(srcDir, file)
-      const generator = require(srcPath)
+      const SRC_PATH = path.join(SRC_DIR, file)
+      const generator = require(SRC_PATH)
       const response = await generator()
-      const srcBasename = path.basename(srcPath, '.js')
-      const distPath = path.join(distDir, `${srcBasename}.json`)
+      const srcBasename = path.basename(SRC_PATH, '.js')
+      const DIST_PATH = path.join(DEST_DIR, `${srcBasename}.json`)
 
-      return fsPromises.writeFile(distPath, JSON.stringify(response, null, '  '))
+      return fsPromises.writeFile(DIST_PATH, JSON.stringify(response, null, '  '))
     })
   ))
   .catch(reason => console.log(reason))

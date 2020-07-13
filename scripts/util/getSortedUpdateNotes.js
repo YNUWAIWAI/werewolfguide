@@ -1,7 +1,7 @@
 const fs = require('fs')
 const fsPromises = fs.promises
 const path = require('path')
-const srcDir = path.join(__dirname, '..', '..', 'docs', 'updateNotes')
+const SRC_DIR = path.join(__dirname, '..', '..', 'docs', 'updateNotes')
 const regex = /^v(?<major>\d+)-(?<minor>\d+)-(?<patch>\d+)/
 const compare = (a, b) => {
   const resultA = a.match(regex).groups
@@ -20,7 +20,7 @@ const compare = (a, b) => {
   return patch 
 }
 
-const getSortedUpdateNotes = fsPromises.readdir(srcDir)
+const getSortedUpdateNotes = fsPromises.readdir(SRC_DIR)
   .then(srcFiles => {
     const files = srcFiles
       .sort(compare)
