@@ -18,7 +18,7 @@ fsPromises
       const srcBasename = path.basename(srcPath, '.js')
       const distPath = path.join(distDir, `${srcBasename}.json`)
 
-      return fsPromises.writeFile(distPath, JSON.stringify(response))
+      return fsPromises.writeFile(distPath, JSON.stringify(response, null, '  '))
     })
   ))
   .catch(reason => console.log(reason))
