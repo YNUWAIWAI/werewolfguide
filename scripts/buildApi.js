@@ -11,13 +11,14 @@ fsPromises
   .mkdir(distDir, {recursive: true})
   .then(() => fsPromises.readdir(srcDir))
   .then(srcFiles => Promise.all(
-    srcFiles.map(file => {
+    srcFiles.map(async file => {
       const srcPath = path.join(srcDir, file)
-      const response = require(srcPath)
+      const generator = require(srcPath)
+      const response = await generator()
       const srcBasename = path.basename(srcPath, '.js')
       const distPath = path.join(distDir, `${srcBasename}.json`)
 
-      return fsPromises.writeFile(distPath, response)
+      return fsPromises.writeFile(distPath, JSON.stringify(response))
     })
   ))
   .catch(reason => console.log(reason))

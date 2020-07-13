@@ -17,5 +17,9 @@
   "devDependencies": {
     "docusaurus": "^1.9.0",
     "netlify-cli": "^2.11.18"
+  },
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "remarkable": "^2.0.1"
   }
 }
