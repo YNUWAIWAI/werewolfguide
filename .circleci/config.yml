@@ -7,7 +7,7 @@ jobs:
     steps:
       - checkout
       - run:
-          name: Deploying to GitHub Pages
+          name: Deploying to Netlify
           command: |
             git config --global user.email "nimiusrd@users.noreply.github.com"
             git config --global user.name "nimiusrd"
@@ -16,11 +16,11 @@ jobs:
             cd website && yarn install && yarn run write-translations && cd ..
             # crowdin install
             sudo apt-get install default-jre
-            wget https://artifacts.crowdin.com/repo/deb/crowdin.deb -O crowdin.deb
+            wget https://artifacts.crowdin.com/repo/deb/crowdin3.deb -O crowdin.deb
             sudo dpkg -i crowdin.deb
             # translations upload/download
-            crowdin --config crowdin.yaml upload sources --auto-update -b master
-            crowdin --config crowdin.yaml download -b master
+            crowdin upload sources --auto-update -b master
+            crowdin download -b master
             # deploy to Netlify
             cd website && yarn build && yarn netlify deploy --dir=build/LiCOS --prod
 
