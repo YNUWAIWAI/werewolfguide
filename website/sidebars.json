@@ -23,7 +23,8 @@
   },
   "updateNotes": {
     "Update notes": [
-      "updateNotes/v1-0-0"
+      "updateNotes/v1-0-0",
+      "updateNotes/v1-0-1"
     ]
   }
 }
